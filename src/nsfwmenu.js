@@ -1,17 +1,12 @@
 const nsfwmenu = (prefix, pushname) => {
-    return `*Comandos para ver pornito 🔞*
-*NSFW ✅*
+    return `🔱 𝐁𝐈𝐍𝐄𝐑𝐈𝐀 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋:
 
-- ${prefix}nsfwbobs
-- ${prefix}nsfwsidebobs
-- ${prefix}nsfwahegao
-- ${prefix}nsfwfeets
+⚜ 𝑪𝒉𝒂𝒏𝒏𝒆𝒍: https://t.me/BineriaUniversal
+⚜ 𝑪𝒉𝒂𝒕: https://t.me/BineriaUniversal0
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑶𝒇𝒊𝒄𝒊𝒂𝒍: https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑨𝒍𝒊𝒂𝒅𝒐: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
 
-_El bot nesecita admin y tener activado los NSFW_\n _Digita_\n ${prefix}*nsfw 1*
-
-Algunas funciones fueron eliminas por errores en el servidor de la India
-
-ву ѕнαη∂υу`
+🎩 𝑶𝒘𝒏𝒆𝒓: 𝗝𝗔𝗦𝗜𝗘𝗟 𝗔𝗡𝗗 𝗝𝗢𝗘𝗟`
 
 }
 
