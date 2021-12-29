@@ -1,77 +1,12 @@
 const antimenu = (prefix, pushname) => {
-    return `
+    return `🔱 𝐁𝐈𝐍𝐄𝐑𝐈𝐀 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋:
 
-*Comandos Para Activar Los Antilinks 📢*
+⚜ 𝑪𝒉𝒂𝒏𝒏𝒆𝒍: https://t.me/BineriaUniversal
+⚜ 𝑪𝒉𝒂𝒕: https://t.me/BineriaUniversal0
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑶𝒇𝒊𝒄𝒊𝒂𝒍: https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑨𝒍𝒊𝒂𝒅𝒐: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
 
-══════════════
-
-_*Antilink De Grupos De Whatsapp*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antilink 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antilink 0
-
-══════════════
-
-_*Antilink De Instagram*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antinsta 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antinsta 0
-
-══════════════
-
-_*Antilink De Facebook*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antiface 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antiface 0
-
-══════════════
-
-_*Antilink De Tik Tok*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antitik 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antitik 0
-
-══════════════
-
-
-_*Antilink De Kwai*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antikwai 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antikwai 0
- 
-══════════════
-
-
-_*Antilink De Discord*_
-
-*PARA ACTIVAR EL ANTILINK*
-${prefix}antidiscord 1
-
-*PARA DESACTIVAR EL ANTILINK*
-${prefix}antidiscord 0
- 
-══════════════
-
-_Para activar estos comandos el bot necesita tener admin en el grupo y esta funcion solo la activan los admins del grupo_
-
-
-_*by shanduy*_
-`
+🎩 𝑶𝒘𝒏𝒆𝒓: 𝗝𝗔𝗦𝗜𝗘𝗟 𝗔𝗡𝗗 𝗝𝗢𝗘𝗟`
 
 }
 
