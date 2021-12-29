@@ -1,42 +1,12 @@
 const desmenu = (prefix, pushname) => {
-    return `
-*Comandos De Descargas ✅*
- 
-══════════════
+    return `🔱 𝐁𝐈𝐍𝐄𝐑𝐈𝐀 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋:
 
-*AUDIO*
+⚜ 𝑪𝒉𝒂𝒏𝒏𝒆𝒍: https://t.me/BineriaUniversal
+⚜ 𝑪𝒉𝒂𝒕: https://t.me/BineriaUniversal0
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑶𝒇𝒊𝒄𝒊𝒂𝒍: https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑨𝒍𝒊𝒂𝒅𝒐: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
 
-${prefix}play
-Coloca el nombre de la cancion o el link del video YT
-
-${prefix}play2
-Una alternativa por si *play llego a su limite de canciones
-
-
-Ejemplo:
-${prefix}play Industry Baby - Lil Nas X
-
-O
-
-Ejemplo:
-${prefix}play www.youtube.com/xxxxxxxx
-
-══════════════
-
-*VIDEO*
-
-${prefix}ytmp4
-Descarga videos de YouTube
-
-Ejemplo:
-${prefix}ytmp4 www.youtube.com/xxxxxxxx
-
-══════════════
-    
-_*play y *play2 tiene un limite de 2000 canciones en el server, si llega a su limite se restablecera dentro de 24 horas_
-     
-_*by shanduy*_
-`
+🎩 𝑶𝒘𝒏𝒆𝒓: 𝗝𝗔𝗦𝗜𝗘𝗟 𝗔𝗡𝗗 𝗝𝗢𝗘𝗟`
 
 }
 
