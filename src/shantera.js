@@ -1,53 +1,12 @@
 const shantera = (prefix, pushname) => {
-    return `*Palabras especificas para que el bot interactue con ustedes*
+    return `🔱 𝐁𝐈𝐍𝐄𝐑𝐈𝐀 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋:
 
+⚜ 𝑪𝒉𝒂𝒏𝒏𝒆𝒍: https://t.me/BineriaUniversal
+⚜ 𝑪𝒉𝒂𝒕: https://t.me/BineriaUniversal0
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑶𝒇𝒊𝒄𝒊𝒂𝒍: https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP
+⚜ 𝑮𝒓𝒖𝒑𝒐 𝑨𝒍𝒊𝒂𝒅𝒐: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
 
-Pasen porno
-Hora del sexito
-Pongan cuties
-Fiesta del admin
-Admin party
-Viernes
-GOOOOD
-Alto temazo
-Todo bien
-Buenos dias
-Bot gay
-Gracias
-Hola
-Fua
-Corte
-Gaspi buenos dias 
-Gaspi me saludas
-Gaspi y las minitas
-Gaspi todo bien
-Me quiero suicidar
-Gaspi ya no aguanto
-Contate algo bot
-Sexo
-Momento epico
-El bot del orto no funciona
-Epicardo
-Insta de la minita
-Una mierda de bot
-Ultimo momento
-Nefasto
-Paraguayo
-Bot de mierda
-Venezolano
-Gaspi corte
-Ya me voy a dormir
-Calefon
-Apurate bot
-Un chino
-No funciona
-Boliviano
-Enano
-
-
-_*Ojito escribe tal y como esta en el mensaje*_
-
-ву ѕнαη∂υу`
+🎩 𝑶𝒘𝒏𝒆𝒓: 𝗝𝗔𝗦𝗜𝗘𝗟 𝗔𝗡𝗗 𝗝𝗢𝗘𝗟`
 
 }
 
