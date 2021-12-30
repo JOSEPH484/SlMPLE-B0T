@@ -2186,6 +2186,844 @@ Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servid
 
 [✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
                   }
+		if (budy.includes(`/introducción bins`)) {
+                  reply(`📢 INTRODUCCION BINS ✅
+
+🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
+
+☪️ ¿Que es un Bin?
+
+Un BIN son los 6 primeros números de una tarjeta lo cual identifica al banco y al tipo de tarjeta que es. Los BINs nos permiten generar tarjetas de crédito o debito.
+  
+🌈 Ejemplo: 541111xxxxxxxxxx
+
+Y BUENO, QUE HARE CON LAS x Y COMO OBTENDRÉ LA FECHA Y EL CODIGO DE SEGURIDAD...🤠
+
+Se ingresara a cualquiera de estas paginas...
+
+https://namso-gen.com/
+
+https://www.bestccgen.com/namso-ccgen/
+
+https://cc-gen.us/
+
+📡 INGRESANDO A CUALQUIERA DE ESAS PAGINAS OBTENDREMOS LA TARJETA DE CREDITO/DEBITO CON SU FECHA Y CVV...🛰
+
+🙆‍♂️ RECUERDA.....ESTAS TARJETAS GENERADAS SON FALSAS...💫
+
+🤡 NO SON REALES, SINO TODO AQUEL QUE BINEE ESTUVIERA EN CANADÁ...🤗
+
+🕉 BUENO YA SABIENDO QUE ES UN BIN...PASAREMOS A ENSEÑARLES QUE ES UN VPN...✅
+
+PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE XD. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN...YA QUE ESTA APP, OSEA LA VPN, NOS PODRA CAMBIAR NUESTRA DIRECCIÓN IP, OSEA SUPONGAMOS QUE SOMOS DE VENEZUELA 🇻🇪...Y BUENO EN LA INFORMACIÓN DEL BIN DICE QUE SU PROCEDENCIA ES DE BRAZIL 🇧🇷...PUES BÁSICAMANTE LO QUE HAREMOS ES ENCENDER NUESTRA VPN. BUSCAR DICHO PAIS DEL BIN QUE COMO EJEMPLO ES BRAZIL 🇧🇷. Y LISTO XD.
+
+♌ COMO TERCER PASO, SERIA SABER O TENER UNA NOCIÓN DE QUE ES UN LIVE...
+
+Básicamente las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para realizar pequeñas, grandes compras fisicas y/o renovar suscripciones.
+
+A CONTINUACIÓN LES DEJO PAGINAS FUNCIONALES PARA SACAR LIVES...🐊
+
+https://karmeyhesed.org/
+
+https://dzi.org/make-a-donation 
+
+https://www.habitat.org/ 
+
+https://secure.givewell.org/
+
+Y ESTO SE PREGUNTARA COMO SACO LIVES....EN RESUMEN... CONECTAN SU VPN AL PAIS DEL BIN....GENERAN TARJETAS EN CUALQUIERA DE LAS PAGINAS QUE LES MANDE... Y FINALMENTE LE DAN EN COMPRAR - START O UNA MAMADA ASI XD...SI DICE ALGUN MENSAJE DE ERROR...SIGNFICA QUE LA TARJETA ESTA MUERTA...Y EN CASO LA TARJETA PASE....SIGNFICA QUE ESTA LIVE = VIVA. EL UNICO REQUISITO ES TENER PACIENCIA...🙃
+
+A, POR SI QUIEREN BINS,MÉTODOS Y CURSOS TOTALMENTE GRATUITO UNANSE A NUESTRO CANAL DE TELEGRAM...🖤...https://t.me/bineriauniversal
+
+🛐 ¿COMO CREAR UN BIN?
+
+Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
+
+Ejemplo: 5411112364745823
+
+Bin: 541111xxxxxxxxxxx
+
+En caso no tengas tarjeta de credito o debito hay un canal donde suben bins a diario, lo único que tendrias que hacer es ponerte a calar (probar) en que paginas jala (funciona)
+
+Canal Donde Pueden Sacar Bins: https://t.me/MacacosCC...🤑
+
+ ☮¿EN QUE PAGINAS JALAN?
+
+Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Onlyfans, entre otras).
+
+Posdata: solo tome esas páginas para el ejemplo ._.XD
+
+✝️ ¿QUE ES CHAVELO?
+
+Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
+
+♉ ¿Corremos riesgo al utilizar un bin?
+
+Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
+
+Las tarjetas no son de dueños reales, solo son algoritmos, que de alguna manera pasan en una
+página.
+
+Lo más malo que te puede pasar, es que una página bloquee tu IP real permanentemente o tu dispositivo.
+
+La otra cosa, es que tu IP puede estar en una lista negra de SPAM, eso es
+provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus usuarios a otras compañías, lo cual es algo que Hola no te especifica. Igual, hay muchos mejores VPN’s .
+
+Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
+
+♐ ¿Qué es BAN?
+
+Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra
+
+Bueno Geys espero les haya servido esta breve introducción recuerda que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.`)
+                  }
+		
+	if (budy.includes(`/introducción carding`)) {
+                  reply(`Bueno aprovechando que el amigo SP3L1N4X  dejo una pequeña introduccion al Carding
+
+Manual de Carding
+
+1.- Introducción
+2.- Carding
+3.- Estructura de las Tarjetas de Crédito
+4.- Tengo el numero que hago?
+5.- Quiero tener más Números de tarjetas rápidamente
+6.- Trashing
+7.- El Verdadero Peligro
+8.- Herramientas
+
+
+
+Disclamer: NO asumo ninguna responsabilidad debida al mal empleo de la información aquí contenida, puesto que este texto solamente tiene fines educativos y en ningún caso pretende incitar a nadie a cometer ningún delito ya sea informático o de otra índole.
+
+
+
+Buenas con todos los que puedan leer este documento.
+
+
+1.- Introducción
+
+En este manual voy a indicar que es el carding? Algunos términos del mismo como utilizarlo y sacar provecho Smiley
+
+Comencemos...................
+
+2.- Carding
+
+Este es un concepto que indica lo más claramente posible que es y de que se trata el carding
+
+Carding: Es el uso ilegitimo de las tarjetas de crédito, o de sus números, pertenecientes a otras personas. Se relaciona con el hacking, porque para conseguir números de tarjetas de créditos, una de las formas es utilizando Ingenieria Social y sobre todo nuestra inteligencia (esto es lo mas importante)
+
+Se debe tener mucho cuidado en hacer esto ya que nos podemos meter en muchos líos.
+Con nuestras tarjetas de crédito debemos ser cuidadosos ya que alguien puede leer este documento antes que uno de ustedes y ser capaz de estafarlos.
+
+Se puede recuperar el dinero talvez pero para eso tendrían que hablar con el administrador del sitio donde se realizo el pago del artículo solicitando la IP de donde se hizo la compra y luego de todo esto tenemos que demostrar que nosotros no hicimos la compra del mismo.
+
+El carding consiste en comprar usando la cuenta bancaria o la tarjeta crédito de otro, esto se consigue con un poco de ingenieria social y mucha perseverancia.
+
+Cuando alguna persona utiliza carding para comprar objetos materiales se suele utilizar una dirección falsa con una identificación también falsa, es decir todo el formulario de compra lo llena con datos falsos.
+De esta manera el comprador quedara esperando en el lugar indicado la entrega del material como si se tratara de su residencia.
+
+La filosofía de los carders se basa en que existe mucha gente que tiene grandes cantidades de dinero que no cae nada mal utilizar algo de ese dinero para comprar algunas cositas para cada uno de ellos, ya que posiblemente el dueño de la tarjeta ni se de cuenta de esta compra que el no la hizo.
+
+Si ustedes están pensando en comprar por Internet programas o suscripciones y piensan que utilizando el carding será muy fácil pues tienen toda la razón resulta muy sencillo.
+En este manual se conseguirá revisar los métodos que utilizan los carders para hacerse de los números de tarjetas y burlar las seguridades para poder comprar sin ningún tipo de problemas.
+
+Tienen que saber que el robo de una tarjeta de crédito es un delito universal por lo que puede tener causas penales muy graves si no quieres irte de paseo a Cana..da (para otros países Cárcel) no intenten hacer nada de esto.
+
+
+3.- Estructura de las Tarjetas de Crédito
+
+Para mi esta es la parte más importante ya que aquí sabremos como funcionan las tarjetas de crédito porque se puede hacer programas para que nos den números validos pero lo importante es saber como es que se hace todo eso
+
+Comencemos.....
+
+Los números de las tarjetas se forman de 16 dígitos divididos en 4 grupos de 4 dígitos pueden tener valores del 0 al 9 los primeros 4 dígitos sirven para determinar el banco.
+
+El resto de números se pone al azar no mentira vamos a ver el algoritmo
+
+Hagamos un ejemplo de la creación de un número de tarjeta
+
+Numero de tarjeta: 5180 2345 3942 8765
+
+Las posiciones impares son:
+
+5
+8
+2
+4
+3
+4
+8
+6
+
+Luego de esto se multiplica los 2 primeros dígitos entre si luego los siguientes y asi sucesivamente para que sea mas claro quedaría de la siguiente forma:
+
+5*8=40
+2*4=8
+3*4=12
+8*6=48
+
+Si tenemos cifras mayores a 9 se suma los números es decir las cifras reducidas 8+5=13 entonces
+1+3=4
+
+En el ejemplo quedaría asi:
+
+5*8=40 4+0=4
+2*4=8 8
+3*4=12 1+2=3
+8*6=48 4+8=12 1+2=3
+
+En resumen los números que nos quedan son:
+
+4
+8
+3
+3
+
+
+Luego de esto suma los números pares que descartamos al principio y súmalos con estos el resultado debe ser un número múltiplo de 10 para que el número sea correcto:
+
+4+8+3+3+1+0+3+5+9+2+7+5=50
+
+
+Si no nos diera un numero correcto como va a suceder en la mayoría de los casos lo recomendable es dejar el ultimo casillero libre y jugar con este digito hasta que nos de un numero valido.
+
+Esta es una de las formas de conseguir un numero de tarjeta de crédito es decir adivinando a ver si nos sale otra puede ser esperar pacientemente el fin de mes el momento que llega el corte de pago de la tarjeta del vecino nos robamos su correspondencia y listo ahí tenemos un numerito.
+
+O buscamos dentro de su basura (esto creo que es mas feo) pero igual funciona ya que no suelen romper los cortes de tarjeta de crédito simplemente los botan arrugados a la basura pero igual obtenemos el numero deseado.
+
+Otra de las formas es creando un portal de Internet donde ponemos artículos a la venta se explicara esto mas adelante
+
+4.- Tengo el numero que hago?
+
+El momento de realizar una compra en línea nos solicitan una serie de datos pero los mas importantes es decir los que nunca faltan son estos:
+
+Nombre.
+Numero de Cuenta.
+Fecha de Expiración.
+Tipo de tarjeta.
+Numero de verificación
+
+Estos datos son muy fáciles de conseguir (a veces)
+
+El nombre es el de la victima sencillo de conseguir, el número de su tarjeta es un poco más complicado pero hay formas revisando su correspondencia por ejemplo
+
+La fecha de expiración la podremos conseguir haciéndonos pasar por el banco con los datos que ya conocemos podremos decirle que vamos ampliar su cupo por sus pagos puntuales o cualquier cosa esto ya queda a su imaginación lo que si nos queda claro es que conseguir estos datos resulta sumamente sencillo.
+
+Tipo de Tarjeta ya lo sabemos ya revisamos su correspondencia revisar paso uno Wink
+Para reconocer el tipo de tarjeta se puede utilizar, el primer digito de la tarjeta que nos indica el tipo de la misma.
+
+Si el primer numero es....
+
+3 ->American Express (15 dígitos)
+4 ->VISA (13 o 16 dígitos)
+5 ->Mastercard (16 dígitos)
+6 ->Discover (16 dígitos)
+
+Con estos datos ya se puede comprar algo en línea generalmente los carders realizan una compra de algún software pequeño que sea de descarga o una subscripción para ver pornografía esto lo hacen para probar si la tarjeta funciona o no .
+
+Si el momento de la compra nos solicitaran mas datos ya saben que hacer es mas creo que al momento de revisar su correo no tendrán estos datos tendrán muchos mas.
+
+
+5.- Quiero tener más Números de tarjetas rápidamente
+
+Como aquí se a explicado bastante me canse y ahora hagan un repaso de lo que aprendieron hasta aquí y piensen en una posible victima hasta mientras me voy hacer un juguito y regreso para seguirles explicando unas cositas bastante interesantes.
+
+
+Bueno después de estos 15 minutos de tranquilidad volvamos en lo que estábamos..
+
+
+Para obtener tarjetas podría entrar en juego la famosa Ingenieria Social que tal si llamamos a nuestra victima y decimos algo como lo siguiente:
+
+“Buenas tardes, soy Camilo Albornoz de la sección fraudes de Master Card , hemos detectado un posible uso fraudulento de su tarjeta, por lo que necesitamos que nos indique todos los datos de la misma, para realizar una comprobación”
+
+Este tipo de llamada es bueno realizarla en horas de trabajo ya que la persona se encuentra preocupada con la cabeza enfocada solo en su trabajo por lo que puede resultar un buen momento para que nuestra victima caiga en esta trampa.
+
+Si nos llamaran de un banco diciéndonos algo parecido a lo que escribí anteriormente lo que tienen que hacer es pedir que les repita su nombre completo solicitarle el numero y devolver la llamada de esta manera se evitaran este tipo de estafa.
+
+Todos los que lean pilas que ya están avisados de cómo funciona este método
+
+Aunque parezca mentira existe gran cantidad de gente que cae en este juego y dan todos los datos que les solicitan sin ningún tipo de inconveniente.
+
+Para verificar si la tarjeta es útil se puede hacer una llamada a la entidad bancaria de donde pertenece la tarjeta nos hacemos pasar como dueños de la tarjeta indicando que quisimos hacer una compra y nuestra tarjeta fue rechazada para verificar si hablan con el dueño de la tarjeta pedirán verificar unos datos harán preguntas sencillas como cual es el numero de tarjeta, numero de verificación esto ya no es problema para nosotros ya que tenemos toda la información que conseguimos antes al hacernos pasar como empleados de la entidad que emite la tarjeta
+
+La información que conseguimos aquí es fundamental ya que podremos saber si la tarjeta es principal o es un adicional si es de uso nacional o mundial cuanto es el cupo que tiene la misma , etc.
+
+Las compras que suelen hacer los carders son mediante Internet o telefónicamente no de montos muy altos para que no se pida confirmación al dueño de la tarjeta y para no levantar sospechas
+
+El carder es muy cuidadoso no puede andar gritando al mundo sus hazañas porque el es un ladrón el esta robando , si hace un pedido de un articulo no puede pedir otro y otro articulo a la misma dirección tiene que ir rotando de lugares .
+
+Generalmente si el encargo esta en la oficina de correos el ira cuando no haya nadie si estuviera mucha gente preferirá no arriesgarse y ni siquiera acercarse mas al lugar ya que podría resultar peligroso para el
+
+Un carder nunca pide algo gigante no se comprara un carro para que le traigan por DHL ni nada extremadamente caro (un collar de oro de 18 kilates) tampoco algo muy baratito pero estaría bien que se compre una palm ultimo modelo ese es un buen carder.
+
+El problema que se podría presentar es que el carder cada vez quiere comprar algo mas y no para se vuelve mas adicto por el riesgo y por que se esta comprando buenas cositas pero no se da cuenta que talvez lo tiene fichado y próximamente le haga una visita la policía
+
+Los lugares de entrega de tus pedidos:
+
+NOTA.- NUNCA HAGAS QUE TE ENTREGUEN EN TU CASA
+
+Pero si lo puedes hacer al azar escogiendo alguna persona de la guía telefónica claro que no este tan lejos de tu casa eso si necesitas hablar muy bien para explicar a alguien porque le llego algo tuyo en su casa debes ser bueno para tratar con la gente y no ponerte nervioso.
+La casa de un amigo próximo a cambiarse de casa que te ayude con este favor antes de irse difícil esta forma pero puede ocurrir.
+
+Pedir que lo envíen a una dirección de un condominio generalmente lo dejan al guardia ya que asumen que el conoce a toda la gente del condominio y por seguridad a la persona que deja la correspondencia no la dejaran pasar porque son “Ordenes de la Administradora” y quien será la única persona que ira a pedir el paquete?? Exacto el carder.
+
+
+Bueno estas son una de las tantas formas en las que pueden recibir sus compras seguramente a ustedes se les ocurrirá muchas mas .
+
+
+
+6.- Trashing
+
+Me parece un tema interesante y que no se lo ve regularmente aquí les explico de que se trata aunque entre las ideas que indique antes ya lo mencione.
+
+Se trata de buscar y remover la basura de la victima que estas buscando es decir intentar encontrar estados de cuenta, cortes de pago, recibos, etc.
+
+Por eso un sano consejo cuando boten algo importante rompanlo y botenlo si es posible haciendolo tiritas talvez piensen este tipo esta medio loco pero yo supe de alguien que quemaba sus papeles una vez por semana quien es el loco el o yo??
+
+7.- El verdadero Peligro
+
+
+Ahora con toda la tecnología a nuestro alcance se pueden hacer muchas cosas , esto es lo que utilizan los carders necesitan saber programar y dos invitados muy importantes.
+
+PHP + MySQL
+
+PHP.- Lenguaje de programación web
+MySQL.- Base de Datos trabaja excelente con PHP
+
+Que es lo que hacen??
+
+Se esmeran un par de horas programando un sitio de venta de artículos pueden ser de cualquier tipo deportivos, tecnológicos, etc.
+
+Con precios sumamente accesibles y con productos de excelente calidad la victima se emociona con esta verdadera gamga cuando va a adquirir un producto viene el método de pago el cual es con tarjeta de crédito.
+
+La victima ingresa su tarjeta , nombres , numero de verificación todos los datos necesarios luego de esto el carder ya posee todo lo que necesita queda simplemente enviar un e-mail o hacer una llamada disculpándose y notificando que la transacción no se realizo por no tener el articulo en stock o simplemente el momento que supuestamente hace la compra se le muestra un mensaje de error que diga algo similar a esto:
+“NO SE PUDO CONCLUIR LA TRANSACCION”
+La victima pensara que no paso nada pero nuestra base de datos ya se engordo un poco mas y con datos totalmente reales y listos para usar.
+
+
+8.- Herramientas
+
+Existen programas que nos ayudan a generar números de tarjetas validos esto ahora tiempo a los carders
+
+
+Estas herramientas son:
+
+Fakeid
+
+Te da otros datos de personas verificables, interesante para quienes no tienen habilidad de inventarse personalidades.
+
+Para aquellos programas que no te brindan la fecha de expiración solo queda hacerlo manualmente, probando al mejor estilo brute forcing.
+
+CCards
+
+En caso de que quieran ver unos números de tarjeta de crédito validos como ejemplo, vean el programa CCards.exe que les genera de una manera sencilla y rápida estos números
+
+
+Credit Card Master 4
+
+Este completo programa permite realizar una amplia cantidad de acciones destinadas al carding, genera numeros te ayuda viendo si el digito verificador es correcto y si no es asi no te preocupes ahi mismo te genera otro lo importante es que todos los datos estén correctos
+
+
+Credit
+
+Es un programa muy potente parecido al Credit Card Master aunque tiene interfaz grafica y tiene algunas otras utilidades como por ejemplo generar identidades falsas que como estuvimos viendo pueden ser de gran utilidad.
+
+
+Bueno espero que toda la explicación del manual este clara y que les sirva para conocer el carding más a fondo.
+Nunca olviden que esto es totalmente ilegal y que si no quieren meterse en líos no lo pongan en práctica suerte a todos.
+
+Espero que les haya gustado, y espero que con esto mas o menos se de una ideita...
+
+
+Saludos a todos Bic`)
+                  }
+					
+										
+		if (budy.includes(`/plataformas para calar`)) {
+                  reply(`100  PLATAFORMAS DONDE PUEDEN CALAR , VAMOS ✅
+
+1 CRUNCHYROLL
+2 PLEX 
+3 TOPIC
+4 HIDIVE
+5 BRITBOX 
+6 UMC TV
+7 TIDAL
+8 NAPSTER
+9 HBO MAX 
+10 HBO GO MÉXICO 
+11 HBO ESPAÑA 
+12 FÚBO TV
+13 FANATIZ 
+14 DIRECT TV GO MÉXICO
+15 BLIM 
+16 PUREFLIX
+17 SCRIBD
+18 CANVA 
+19  HOOTSUITE
+20 LINKEDIN
+21 SHUDDER
+22 VRV 
+23 SKYPE 
+24 PROXYSCAPE
+25 INDIEFLIX
+26 WWE 
+27 FILMBOX
+28 MUBI TV
+29 MICROSOFT 365
+30 AWS AMAZON 
+31 AZURE 
+32 SPOTIFY 
+33 YOUTUBE 
+34 BADOO 
+35 PLAYSTORE 
+36 FACEBOOK ADS
+37 NAMCHEAP VPN 
+38 VPN CITY 
+39 PRIVATE TUNEL 
+40 PAYPAL
+41 APPLE MUSIC 
+42 EBAY 
+43 ALIEXPRES
+44 DEEZER 
+45 FANATIZ 
+46 DAZN 
+47 HULU 
+48 NOOR PLAY 
+49 SOUNDCLOUD
+50 DUOLINGO 
+51 PANDORA 
+52 SMALL PDF 
+53 BLIZZARD
+54 WAR GAMING
+55 LUMOSITY LIFETIME 
+56 UTOMIK
+57 DC UNIVERSE
+58 ETSY
+59 MARVEL UNLIMITED
+60 PICSART 
+61 CALM
+62 ANCESTRY 
+63 HISTORY VAULT 
+64 IP VANISH 
+65 DROPBOX
+66 ONLYFANS 😍
+67 ADOBE
+68 PREZI 
+69 WEBSHARE 
+70 ACORN TV
+71 PRIVATE  TÚNEL
+72 NOGGIN
+73 INFLTR
+74 APP STORE 
+75 QOBUZ 
+76 TREEHOUSE
+77 GREEN MAN GAMING
+78 STEAM 
+79 G2A 
+80 NORTON 
+81 IWOOT 
+82 PUMA 
+83 ADIDAS
+84 REEBOK
+85 NIKE 
+86 HM
+87 MY PREOTEIN
+88 UBER EAT 
+89 MC DONAL,S 
+90 MERCADO LIBRE
+91 SHERLY 
+92 STAN 
+93 OLDFLIX
+94 VIKI RAKUTEN
+95 PDF DRIVE 
+96 ATRESPLAYER
+97 SHUTHESTOCK
+98 INSTAGRAM
+99 PORHUB
+100 BRAZZERS`)
+                  }
+										
+		if (budy.includes(`/sitios sms`)) {
+                  reply(`🔰 SITIOS HQ PARA VERIFICACIÓN DE SMS DE BYPASS 🔰
+
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ᴀɴ sᴍs: https://receive-a-sms.com/
+ Ⓜ️sᴍs ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ: https://smsreceivefree.com/
+ Ⓜ️ᴏɴʟɪɴᴇ sᴍs: https://sms-online.co/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: https://smsreceiveonline.com/
+ Ⓜ️ɢᴇᴛ ᴀ ғʀᴇᴇ sᴍs ɴᴜᴍʙᴇʀ: https://getfreesmsnumber.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs: http://sms-receive.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ɴᴇᴛ: https://www.receivesmsonline.net/
+ Ⓜ️ғʀᴇᴇ sᴍs ᴄʜᴇᴄᴋs: http://www.freesmsverifications.com/
+ Ⓜ️7 sɪᴍ.ɴᴇᴛ: http://7sim.net
+ Ⓜ️ʜs3x: http://hs3x.com
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ sᴍs: http://receivefreesms.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ ғʀᴇᴇ sᴍs.ɴᴇᴛ: http://receivefreesms.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ɪɴ: http://receivesmsonline.in/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: https://receive-sms-online.com/
+ Ⓜ️sᴇᴇ sᴍs: https://www.smsver.com/
+ Ⓜ️ɢʀᴏᴏᴠʟ: https://www.groovl.com/
+ Ⓜ️sᴍs.sᴇʟʟᴀɪᴛᴇ: http://sms.sellaite.com/
+ Ⓜ️sᴇɴᴅ sᴍs ɴᴏᴡ: http://www.sendsmsnow.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ᴇᴜ: http://receivesmsonline.eu/
+ Ⓜ️ᴘʀᴏᴏᴠʟ: https://www.proovl.com/numbers
+ Ⓜ️ᴀɴᴏɴ sᴍs: https://anon-sms.com/
+ Ⓜ️ʜɪᴅᴇ ᴍʏ ɴᴜᴍʙᴇʀs: http://hidemynumbers.com/
+ Ⓜ️ᴘɪɴɢᴇʀ: https://www.pinger.com/
+ Ⓜ️ғʀᴇᴇ ᴏɴʟɪɴᴇ ᴘʜᴏɴᴇ: https://www.freeonlinephone.org/
+ Ⓜ️5sɪᴍ: https://5sim.net/
+ Ⓜ️sᴋʏᴄᴀʟʟʙᴅ ғʀᴇᴇ ᴠɪʀᴛᴜᴀʟ ɴᴜᴍʙᴇʀ: http: //www.freevirtu...r.skycallbd.com/
+ Ⓜ️ᴄᴀᴘᴛᴜʀᴇ sᴍs: https://catchsms.com/
+ Ⓜ️sᴍs ɢᴇᴛ: http://smsget.net
+ Ⓜ️1s2ᴜ: https://1s2u.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs: http://getsms.org/
+ Ⓜ️ᴠʀɪᴛᴛʏ: https://virtty.com/
+ Ⓜ️ᴛᴇxᴛ ᴀɴʏᴡʜᴇʀᴇ: http://www.textanywhere.net/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ.ᴍᴇ: http://receivesmsonline.me/
+ Ⓜ️ᴛᴇᴍᴘᴏʀᴀʀʏ ᴇᴍᴀɪʟs: https://www.temp-mails.com/
+ Ⓜ️ᴘᴜʀᴄʜᴀsᴇ ᴠɪʀᴛᴜᴀʟ ɴᴜᴍʙᴇʀ: http://www.virtualnumberbuy.com/
+ Ⓜ️ғʀᴇᴇ ʀᴇᴄᴇɪᴠᴇ sᴍs ᴏɴʟɪɴᴇ: http://freereceivesmsonline.com/
+ Ⓜ️ɴᴅᴛᴀɴ sᴍs: https://sms.ndtan.net/
+ Ⓜ️sᴍs ʟɪsᴛᴇɴ: https://smslisten.com/
+ Ⓜ️ғʀᴇᴇ ᴠɪʀᴛᴜᴀʟ sᴍs ɴᴜᴍʙᴇʀ: https://freevirtualsmsnumber.com/
+ Ⓜ️sᴍs ᴛɪʙᴏ: https://smstibo.com/
+ Ⓜ️ʀᴇᴄᴇɪᴠᴇ sᴍs ɴᴜᴍʙᴇʀ: https://receivesmsnumber.com/
+ Ⓜ️ғʀᴇᴇ sᴍs ᴄᴏᴅᴇ: https://freesmscode.com/
+ Ⓜ️ᴏɴʟɪɴᴇ sᴍs ɴᴜᴍʙᴇʀs: https://smsnumbersonline.com/
+ Ⓜ️sᴍs ʀᴇᴄᴇᴘᴛɪᴏɴ: https: //smsreceiving.com
+ Ⓜ️ᴛʀᴀsʜ ᴍᴏʙɪʟᴇ https://es.mytrashmobile.com/nu`)
+                  }
+					
+		if (budy.includes(`/sitios cardeables`)) {
+                  reply(`Sitios cardeables 2021
+
+games STEAM :
+www.gamecards.com
+www.instant-gaming.com
+www.kinguin.net -> Skrill
+www.getgamesgo.com
+www.bundlestars.com -> It's a very very good site
+www.dlgamer.us
+www.yuplay.com
+www.elitekeys.com
+www.gog.com
+www.offgamers.com
+www.gamersgate.com
+www.go2arena.com
+Method : You must have a good card and work GOOD LUCK
+
+
+
+Website: www.scufgaming.com
+Items: Xbox Controllers
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.hollisterco.com
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.littlecaesars.com
+Items: Food Giftcard
+Method: Bill=Ship
+Shipping: USA
+
+Website: www.tomtop.com
+Items: Electronic
+Method: Bill=Ship
+Shipping: Worldwide
+
+
+Website: www.steaknshake.com
+Items: Food Giftcard
+Method: Bill=Ship
+Shipping: USA
+
+
+
+website: www.abercrombie.com
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+
+Website: www.footlocker.com
+Items: Clothing/Shoes
+Method: Bill=Real, Ship=Your Drop
+
+Shipping: Worldwide
+
+Items: Clothing
+Method: Bill=Ship
+Shipping: Worldwide
+Website: www.SOLRepublic.com
+
+Items: HeadPhones
+Method: Bill=Ship
+Shipping: USA\Canada ONLY
+
+https://skreened.com/
+EASY/ CLOTHES
+
+this is very cheap n easy to card
+https://cheap-forex-vps.com/
+
+GAME KEYS
+
+mmoga.net
+g2play.net
+simplycdkeys.com
+allcdkey.com
+kinguin.net
+humblebundle.com
+gog.com
+activision.com
+eurotrucksimulator2.com
+gamersgate.com
+cdkeyhouse.com
+gamekeystore.net
+elitekeys.com
+steampowered.com
+cdkeys.com.au (easiest)
+
+
+https://www.lasenza.com/ (.co.uk ships to UK, and does have vbv or msc)
+Same bill+ship (Your drop address)
+Does NOT have vbv or msc
+Shipping to USA, and UK if using the co.uk domain
+(for ladies, this is basically same quality as victoria secret)
+
+https://www.agentprovocateur.com/ (This is basically the LV of women lingerie in the UK, you can card gift vouchers and sell for profit on eBay or local marketplace. - Use EU non-vbv/msc for best results)
+Same bill+ship (Your drop address)
+Does HAVE vbv and msc
+Shipping Worldwide
+
+https://www.ryanair.com/en (flight booking)
+Cardholder billing + traveler name/details
+Does NOT have vbv or msc
+Use EU CCV for best result
+
+www.yancor.com (Mens fashion/designer clothes.)
+Pay through PayPal without VBV/MSC. Or through Skrill with VBV/MSC bypass with AMEX.
+Use billing same as Card holder, sock5/vpn match country of card.
+Recommended use Poland card`)
+                  }
+					
+	if (budy.includes(`/sitios cardeables`)) {
+                  reply(`🎁 PAGINAS CARDEABLES 🎁
+
+MUSICA
+https://www.granatamusic.com/
+https://www.octavemusicstore.com/
+ 
+RELOJES
+https://greatgeorgewatches.com/
+https://www.mvmtwatches.com/
+https://www.thehorse.com.au/
+ 
+ROPA
+https://www.redbullshopus.com/
+https://www.houseofholland.co.uk/ ENVÍO 100%
+https://janemotorcycles.com/
+https://www.3sixteen.com/
+https://www.theghostlystore.com/
+https://shop.bremont.com/
+https://www.commondeervt.com/
+https://www.mollyjogger.com/
+https://global.ksubi.com/
+https://teespring.com/
+https://teechip.com/
+https://iedm.com/
+https://asphuck.com/
+ 
+CUADROS:
+https://asphuck.com/
+https://mammoth.co/
+https://shop.factory43.com/
+https://shop.ugmonk.com/
+ 
+COMIDA:
+https://www.vwordmarket.com/
+https://kutoa.com/
+https://www.pipsnacks.com/
+ 
+TENIS
+https://www.hickies.com/
+http://www.buscemi.com/
+https://www.flatspot.com/
+https://packershoes.com/
+ 
+TELEFONOS
+https://www.needabump.com/
+https://www.zgla.com/
+https://thedairy.com/
+ 
+LENTES
+https://enkieyewear.com/
+https://www.toyshades.com/
+ 
+CARDABLE CON CC Y PP ALEMANAS
+https://safishing.com/
+https://packershoes.com/
+https://www.ledlowsgeneralstore.com/
+ 
+ALEATORIO :
+https://store.penny-arcade.com/
+https://www.madsencycles.com/
+https://www.goodasgold.co.nz/
+http://www.lapolicegear.com/ 4500 Envia a USA
+https://www.handcuffwarehouse.com 4500 Envia a USA
+https://www.musclepharm.com/ 4500 Envia a USA
+https://www.sarraf.com/ Oro 4500 Envia a USA
+http://www.beallsflorida.com 4500 Envia a USA
+https://www.gilt.com/ 4500 5178 Envia a USA
+http://www.attunefoods.com/
+http://shop.glutino.com/
+https://shop.soyvay.com/
+https://shop.torani.com/
+http://shop.justins.com/
+http://shop.fitcrunchbars.com/
+https://shop.gaiaherbs.com/
+http://shop.mariani.com/
+https://shop.skinnypop.com/
+http://shop.wholesomesweet.com/
+http://shop.naturesgate.com/
+https://shop.pureorganic.com/
+http://shop.gimmehealth.com/
+https://shop.choiceorganicteas.com/
+https://shop.emergenc.com/
+http://shop.orgain.com/
+http://shop.crispygreen.com/
+https://shop.oberto.com/ (Aceite de oliva)
+http://shop.eightoclock.com/ (cafe en grano y molido)
+434258
+http://thechileshop.com/
+http://www.michaels.com/
+https://www.forever21.com/us/shop
+http://www.acapellastore.com/
+https://www.kichink.com/
+https://www.newegg.com/
+https://www.dropdead.co/
+asos.com Ropa
+champssports.com Ropa
+fruugo.es Ropa
+keller-sports.es Ropa
+net-a-porter.com Ropa, Oro
+planet-sports.com/es/ Ropa
+sarenza.es Ropa
+skatedeluxe.com Ropa
+eset.com Antivirus
+xidax.com / jugador de pc
+southbeachsmoke.com / Vapor
+amazon.com
+www.overstock.com/
+http://www.jcp.com
+http://www.victoriasecret.com
+http://www.zappos.com
+http://smallworld-us.com
+http://namebargain.com/
+http://strawberrynet.com
+http://www.customizedgirl.com
+http://dancewearsolutions.com
+http://www.hottopic.com/hottopic/Apparel.jsp
+https://www.thewhitecompany.com/
+http://pumatops.com/
+http://www.tapout.com/
+http://global.rakuten.com/en/store/atn/
+http://www.sierratradingpost.com
+http://www.fanatics.com
+http://www.goducks.com
+http://www.puritan.com
+http://www.cyberguys.com`)
+                  }
+					
+	if (budy.includes(`/sitios cardeables`)) {
+                  reply(`⚖️ PAGINAS CARDEABLES ⚖️
+
+Aqui dejo unas paginas en cual yo he recibido las compras sin problemas:
+
+activinstinct.com Ropa
+
+Adidas España Ropa
+
+asos.com Ropa
+
+champssports.com Ropa
+
+fruugo.es Ropa
+
+keller-sports.es Ropa
+
+net-a-porter.com Ropa, Oro
+
+planet-sports.com/es/ Ropa
+
+sarenza.es Ropa
+
+skatedeluxe.com Ropa
+
+eset.com Antivirus
+
+xidax.com /pc gamer
+
+southbeachsmoke.com /Vapor
+
+amazon.com
+
+www.overstock.com/
+http://www.jcp.com
+http://www.victoriasecret.com
+http://www.zappos.com
+http://smallworld-us.com
+http://namebargain.com/
+http://strawberrynet.com
+http://www.customizedgirl.com
+http://dancewearsolutions.com
+http://www.hottopic.com/hottopic/Apparel.jsp
+https://www.thewhitecompany.com/
+http://pumatops.com/
+http://www.tapout.com/
+http://global.rakuten.com/en/store/atn/
+http://www.sierratradingpost.com
+http://www.fanatics.com
+http://www.goducks.com
+http://www.puritan.com
+http://www.cyberguys.com
+
+https://www.fivefourclub.com/
+munchpak.com
+njoy.com
+strawberrynet.com
+facturacion=envio
+---------------------------------------------------
+Rakuten.com
+en facturacion usar la de la tarjeta.
+www.partycity.com/
+Bill=Ship
+-----------------------------------------------------------
+https://www.getorchard.com/us/
+-----------------------------------------------------------
+http://www.ipmart.com/main/
+usar la direccion de envio como la de facturacion
+-----------------------------------------------------------
+http://www.accessoryjack.com/
+usar la direccion de envio como la de facturacion
+----------------------------------------------------------- 
+http://www.razerzone.com/
+-----------------------------------------------------------
+http://www.drjays.com/
+usar la direccion de envio como la de facturacion
+-----------------------------------------------------------
+OTRAS:
+http://www.perryolsen.com/
+http://www.stickyj.com/
+http://www.pugster.com/
+http://www.mmoga.com/
+http://www.jewelry.com/
+http://www.jewelbasket.com/
+www.refurb4less.com`)
+                  }
 		// FINAL AUTORESPUESTA - BINNING
 					
                 // INICIO AUTORESPUESTA - HACKING
