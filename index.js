@@ -4262,7 +4262,31 @@ Seleccionar la opción número "3" y pulsar enter`)
 	// VIDEOS
 	if (budy.startsWith(`/netflix`)) {
         const none = fs.readFileSync('./video/netflix.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '📩🔰 MÉTODO NETFLIX 🔰📩\n\n📥| Paso #1: borra cache de la app netflix y conectarse con holavpn a IP VIETNAM🇻🇳\n\n📥| Paso #2: Entra a la app d netflix registrate con tu email y password \n\n📥| Paso #3: para reproducir deja el vpn prendido\n\n🕵️‍♂️| CREDITOS: @TELEGRAM'})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration: 66666666666666666666666666666, caption: '📩🔰 MÉTODO NETFLIX 🔰📩\n\n📥| Paso #1: borra cache de la app netflix y conectarse con holavpn a IP VIETNAM🇻🇳\n\n📥| Paso #2: Entra a la app d netflix registrate con tu email y password \n\n📥| Paso #3: para reproducir deja el vpn prendido\n\n🕵️‍♂️| CREDITOS: @TELEGRAM'})
+                  }
+	if (budy.startsWith(`Joseph`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+                  }
+	if (budy.startsWith(`joseph`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+                  }
+	if (budy.startsWith(`gaaaaa`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+                  }
+	if (budy.startsWith(`GAAAAAAA`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+                  }
+	if (budy.startsWith(`Aea`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+                  }
+	if (budy.startsWith(`aea`)) {
+        const none = fs.readFileSync('./video/chibolomepo.mp4');
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
                   }
 	// AUDIOS
 	if (budy.startsWith(`?`)) {
