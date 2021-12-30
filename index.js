@@ -473,6 +473,74 @@ if (budy.includes("https://m.facebook.com/")){
 			
 			
 //FIN ANTILINKS FACEBOOK GRUPOS PERFILES PUBLICACIONES			
+
+	// INICIO FUNCION ANTIVENTAS
+
+
+if (budy.includes("Vendo")){
+		if (!isGroup) return
+		if (!isAntiVentas) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Ventas 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Adiós....")
+		}, 0)
+	}
+	
+	if (budy.includes("vendo")){
+		if (!isGroup) return
+		if (!isAntiVentas) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Ventas 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Adiós....")
+		}, 0)
+	}
+			
+	if (budy.includes("Cambio")){
+		if (!isGroup) return
+		if (!isAntiVentas) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Cambios 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Adiós....")
+		}, 0)
+	}
+			
+	if (budy.includes("cambio")){
+		if (!isGroup) return
+		if (!isAntiVentas) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Ventas 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Adiós....")
+		}, 0)
+	}
+// FINAL FUNCION ANTIVENTAS
 			
 //FUNCION ANTILINK
 	     	
