@@ -1713,7 +1713,121 @@ break
 					})
 					break
                 default:
-                
+                // INICIO AUTORESPUESTA - HACKING
+		if (budy.includes(`/sqlmap`)) {
+                  reply(`💉Sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación Defectos de inyección SQL y apoderamiento de servidores de bases de datos. Viene con un potente motor de detección, muchas funciones de nicho. para el mejor probador de penetración y una amplia gama de cambios que duran desde la toma de huellas digitales de la base de datos, hasta la obtención de datos de la base de datos, para acceder al sistema de archivos subyacente y ejecutar comandos en el sistema operativo a través de conexiones fuera de banda..💉
+
+🔒Installation:📲
+
+$ apt update && apt upgrade
+$ apt install git 
+$ apt install python2
+$ apt install python
+$ git clone https://github.com/sqlmapproject/sqlmap
+$ cd sqlmap
+$ chmod +x *
+
+📲Run:📲
+
+$ python2 sqlmap.py -h
+
+It shows all options to use this tool sqlmap
+
+$ python2 sqlmap.py`)
+                  }
+
+if (budy.includes(`/bingen`)) {
+                  reply(`📱Bingen📱
+
+💵 *Es una herramienta cuya funcion es generar bins mediante un algoritmo avanzado de generacion
+se estas.* 💵
+
+💵 Un bin es utilizado como una forma para la generacion de tarjeras de credito validas. Con el cual puedes obtener servicios premium. 💵
+
+https://github.com/JoeTech-Studio/Bingen.git`)
+                  }
+
+if (budy.includes(`/socialsploit`)) {
+                  reply(`📱SocialSploit es un framework de phishing que nos ayuda a hackear con ngrok y serveo📱
+
+📱Installation:📱
+
+$ pkg install -y git 
+$ git clone https://github.com/Cesar-Hack-Gray/SocialSploit
+$  cd SocialSploit 
+$  ls
+$ bash install.sh
+$ ./Sploit`)
+                  }
+
+if (budy.includes(`/hammer`)) {
+                  reply(`📱¿Que es Hammer?📱
+
+💉Que es DDoS y Como funciona¿?💉
+
+Los ataques de red distribuidos a menudo se conocen como ataques de denegación distribuida de servicio (DDoS), El ataque DDoS envía varias solicitudes al recurso web atacado, con la intención de desbordar la capacidad del sitio web para administrar varias solicitudes y de evitar que este funcione correctamente.
+
+📱Instalacion:📱
+
+$ pkg install -y git
+$ pkg install -y python
+$ pkg install -y python2
+$ pkg install -y nmap
+$ pkg install net-tools
+$ git clone https://github.com/cyweb/hammer
+$ cd hammer
+
+💻USO CORRECTO:💻
+
+Primero sacamos la ip del sitio web 
+
+ping sitio sin http o https
+
+python hammer -s IP  -p 80 -t 135
+
+Es .py pero facebook bloquea si lo pongo correctamente
+
+( -s ) Sirve para indicar la IP del sitio web de la víctima.
+
+( -p ) Sirve para indicar el puerto que atacaremos, en éste caso el puerto mas recomendado y por defecto es 80.
+
+( -t ) Sirve para indicar la velocidad en la cual se enviarán los paquetes, en éste caso la velocidad mas recomendada y por defecto es 135`)
+                  }
+
+if (budy.includes(`/kali-nethunter`)) {
+                  reply(`📱¿Que es Kali-Nethunter?📱
+
+Este es un script mediante el cual puede instalar Kali nethunter (Kali Linux) en su aplicación termux sin un teléfono rooteado.
+
+📱Installation:📱
+
+$ apt update 
+$ apt upgrade
+$ apt install git
+$ git clone https://github.com/Hax4us/Nethunter-In-Termux
+$ cd Nethunter-In-Termux
+$ chmod +x *
+$ ./kalinethunter
+
+Now select your architecture 
+
+Now type this command to start 
+
+$ startkali
+Compulsory Steps For First Time Use
+
+So after startkali
+
+execute this command
+
+$ apt-key adv --keyserver hkp://keys.gnupg.net --recv-keys 7D8D0BF6
+
+Now its time to update
+
+$ apt-get update`)
+                  }
+// FINAL AUTORESPUESTA - HACKING
+					
 		if (budy.includes(`Todo bien`)) {
                   reply(`Si amigo todo bien, vite`)
                   }
