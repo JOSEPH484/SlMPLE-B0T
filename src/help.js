@@ -108,6 +108,7 @@ const help = (prefix) => {
  │⊷ ${prefix}creador
  │⊷ ${prefix}versión
  │⊷ ${prefix}chiste
+ │⊷ ${prefix}datos
  │⊷ ${prefix}play3
  │⊷ ${prefix}netflix
  │⊷ ${prefix}shoppay
