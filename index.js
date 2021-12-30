@@ -73,6 +73,12 @@ const { welmenu } = require('./src/welmenu')
 const { banmenu } = require('./src/banmenu')
 const { otak } = require('./src/otak')
 const { levelmenu } = require('./src/levelmenu')
+//**********INICIO MENU BINNERS*********/
+const { bineriauniversal } = require('./binners/bineriauniversal')
+const { akatsuki } = require('./binners/akatsuki')
+const { vpns } = require('./binners/vpns')
+const { navegadores } = require('./binners/navegadores')
+const { shoppay } = require('./binners/shoppay')
 /********INICIO MENU HACKING********/
 const { routersploit } = require('./src/routersploit')
 const { infoga } = require('./src/infoga')
@@ -692,27 +698,22 @@ if (budy.includes("https://m.facebook.com/")){
 		case 'shoppay':
 		client.sendMessage(from, shoppay(prefix, sender), text, {quoted: mek})
 		break
-		
-
 		case 'routersploit':
 		client.sendMessage(from, routersploit(prefix, sender), text, {quoted: mek})
-		break
-					
+		break		
 		case 'infoga':
 		client.sendMessage(from, infoga(prefix, sender), text, {quoted: mek})
-		break
-					
+		break			
 		case 'ngrok':
 		client.sendMessage(from, ngrok(prefix, sender), text, {quoted: mek})
-		break
-					
+		break			
 		case 'phoneinfoga':
 		client.sendMessage(from, phoneinfoga(prefix, sender), text, {quoted: mek})
 		break
 		case 'fotosploit':
 		client.sendMessage(from, fotosploit(prefix, sender), text, {quoted: mek})
 		break
-
+					
 		/*case 'virtex':
 	       case 'troleo':
                client.sendMessage(from, virtex(prefix, sender), text, {quoted: mek})
