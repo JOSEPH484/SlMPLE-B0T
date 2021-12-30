@@ -1668,7 +1668,8 @@ hasil = `${rate}Usted es ${random}% fan de cuties\n\n${cu}`
 reply(hasil)
 break
 
-					/*
+					
+				/*
 case 'racista':
 if (!isUser) return reply(mess.only.daftarB)
 rate = body.slice(9)
@@ -1700,12 +1701,11 @@ reply('Hubo un error intentalo nuevamente :/')
 break
 					
 case 'topcabros':
-case 'topkabros':
 try{
 if (!isUser) return reply(mess.only.daftarB)
 if (!isGroup) return reply(mess.only.group)
 d = []
-teks = 'Top 10 de los mas gays del grupo\n\n'
+teks = 'Top 10 de los mas cabros del grupo\n\n'
 for(i = 0; i < 10; i++) {
 r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
 teks += `➔ @${groupMembers[r].jid.split('@')[0]}\n`
@@ -1717,6 +1717,34 @@ console.log(e)
 reply('Hubo un error intentalo nuevamente :/')
 }
 break
+					
+case 'topkabros':
+try{
+if (!isUser) return reply(mess.only.daftarB)
+if (!isGroup) return reply(mess.only.group)
+d = []
+teks = 'Top 10 de los mas kabros del grupo\n\n'
+for(i = 0; i < 10; i++) {
+r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
+teks += `➔ @${groupMembers[r].jid.split('@')[0]}\n`
+d.push(groupMembers[r].jid)
+}
+mentions(teks, d, true)
+} catch (e) {
+console.log(e)
+reply('Hubo un error intentalo nuevamente :/')
+}
+break
+					
+					
+case 'chiste':
+            if (!isUser) return reply(mess.only.daftarB)	
+            respuesta = [`¿Cuál es el colmo de un ciego?\n Enamorarse a primera vista.`, `*¿Qué le dijo un zapato a otro?* \n - Qué vida más arrastrada llevas. \n ¡MIRA LOS ZAPATOS QUE EXISTEN PARA ANDAR POR EL TECHO!`, `¿Qué le dijo un cable a otro cable? \n Somos los intocables.`, `*¿Qué le dijo batman al papel higiénico?* \n Tu eres el único que conoce mi baticueva.`, `¿Por qué llora un libro de matemáticas? \n ¡Porque tiene muchos problemas!`, `¿Qué está al final de todo? ¡La letra o!`, `¿Por qué el profe de música tiene una escalera? \n ¡Para poder llegar a las notas más altas!`, `¿Qué le dice una iguana a su hermana gemela? \n Somos iguanitas`, `*¿Cuál es el colmo del electricista?* \n ¡Que su mujer se llame Luz!`, `¿Cómo se dice pañuelo en japonés? \n Sacamoko`, `¿Cuál es el pez que huele mucho? \n ¡Peztoso!`, `¿Sabes cómo se queda un mago después de comer? \n Magordito` ]
+            answer = respuesta[Math.floor(Math.random() * respuesta.length)]
+            reply(answer)
+            break
+					
+
 											
 /******JUEGOS SHANDUY LA PUTA MADRE NO TE OLVIDES******/					
 					
