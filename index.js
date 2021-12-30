@@ -473,13 +473,12 @@ if (budy.includes("https://m.facebook.com/")){
 			
 			
 //FIN ANTILINKS FACEBOOK GRUPOS PERFILES PUBLICACIONES			
-
-	// INICIO FUNCION ANTIVENTAS
+// INICIO FUNCION ANTIVENTAS
 
 
 if (budy.includes("Vendo")){
 		if (!isGroup) return
-		if (!isAntiVentas) return
+		if (!isAntiVenta) return
                 if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
@@ -495,7 +494,7 @@ if (budy.includes("Vendo")){
 	
 	if (budy.includes("vendo")){
 		if (!isGroup) return
-		if (!isAntiVentas) return
+		if (!isAntiVenta) return
                 if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
@@ -511,7 +510,7 @@ if (budy.includes("Vendo")){
 			
 	if (budy.includes("Cambio")){
 		if (!isGroup) return
-		if (!isAntiVentas) return
+		if (!isAntiVenta) return
                 if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
@@ -527,7 +526,7 @@ if (budy.includes("Vendo")){
 			
 	if (budy.includes("cambio")){
 		if (!isGroup) return
-		if (!isAntiVentas) return
+		if (!isAntiVenta) return
                 if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
