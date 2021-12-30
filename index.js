@@ -1713,6 +1713,481 @@ break
 					})
 					break
                 default:
+		// INICIO AUTORESPUESTA - BINNING
+		if (budy.includes(`/que es un bin`)) {
+                  reply(`PARA LOS QUE NO SABEN HACER CUENTAS....ESTE ES UN TUTORIAL TEÓRICO PARA QUE SEPAN A LO QUE SE ESTAN METIENDO.
+
+✅ ¿QUE ES UN BIN?
+
+BIN: Bank Identification Number.
+
+Un bin son los primeros 6 dígitos de una tarjeta de crédito. Estos nos sirven para identificar el país de procedencia, tipo de tarjeta y nivel de la misma.
+
+Ejemplo: 553667
+
+✅ ¿PARA QUE SIRVEN?
+
+Con el bin puedes crear ccs (credit card) en español (tarjeta de crédito).Al generar la cc a base de bin puedes hacer suscripciones en páginas y hasta en ocasiones compras físicas. 
+
+✅ ¿QUE ES UNA CC?
+
+(CC=TARJETA DE CREDITO)
+
+Primero debemos tener claro que una CC no es un BIN, una CC esta compuesta por información real.
+Las CCs basicamente se componen por:
+
+°Nombre
+°Numero de la tarjeta
+°CCV
+°Fecha
+°Dirección
+°Código postal
+°Pais
+°Algunas traen numero telefónico y/o correo.
+
+✅ ¿COMO RECONOCER EL TIPO DE TARJETA?
+
+Pues Fácil. Observa:
+
+La tarjeta comienza con el número 4 [Visa]
+
+La tarjeta comienza con el número 5 [MasterCard]
+
+La tarjeta comienza con el número 3 [Amex]
+
+La tarjeta comienza con el número 6
+[Discovey]
+
+✅ ¿COMO CREAR UN BIN?
+
+Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
+
+Ejemplo: 4567812364745823
+
+Bin: 456781xxxxxxxxxxx
+
+Haciendo eso te pones a calar en páginas obvio con la misma ip de
+la cc de la cual salió el bin.
+
+✅ ¿EN QUE PAGINAS JALAN?
+
+Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Napster y entre otras).
+
+Posdata: solo tome esas páginas para el ejemplo.
+
+✅ ¿COMO GENERAR UNA CC CON UN BIN?
+
+existen varios generadores de ccs
+que se encargan de remplazar las “x” por números que coincidan
+con una cc.
+
+El generador que yo usaré será Namso (https://namso-gen.com/)
+
+INSERTE SU BIN: 548572xxxxxxxxxx
+
+Y señalamos Fecha & CCV2 (si es todo generado)
+
+Cantidad a crear 10 o las que quieran
+
+Y le damos generar tarjetas.
+
+✅ ¿QUE ES CHAVELO?
+
+Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
+
+✅ ¿Corremos riesgo al utilizar un bin?
+
+Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
+
+Las tarjetas no son de dueños reales, solo son algoritmos, que de alguna manera pasan en una
+página.
+
+Lo más malo que te puede pasar, es que una página bloquee tu IP real permanentemente o tu dispositivo.
+
+La otra cosa, es que tu IP puede estar en una lista negra de SPAM, eso es
+provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus usuarios a otras compañías, lo cual es algo que Hola no te especifica. Igual, hay muchos mejores VPN’s .
+
+Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
+
+✅ ¿Qué es BAN?
+
+Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra.
+
+✅ ¿QUE ES UN VPN?
+
+Una red privada virtual (RPV).
+En inglés: Virtual Private Network (VPN), en pocas palabras VPN es algo que ayuda a que tu verdadera direccion IP quede cubierta, por ejemplo si tu eres de Argentina y un bin pide IP de Rusia, deberemos descargar un VPN como Tunnelbear para cambiar nuestra direccion a alli, los VPNs son faciles de usar y son una parte fundamental para usar bins, sin ellos no podremos usar la mayoria de ellos.
+Existen varios vpns algunos son de paga, y otros gratuitos como Vyprvpn y tunnelbear entre otros. ZeroVPN, VyprVPN, TunnelBear, Hotspot Shield, HMA.
+
+✅ ¿QUE ES IP?
+
+IP = Internet Protocol, o simplemente tu dirección de Internet, todos nuestros dispositivos
+conectados a internet poseen uno otorgado gracias a la red a la que estamos conectados. La IP en
+algunos casos puede señalar la locación exacta en la que estamos ubicados.
+
+✅ ¿QUE SON LIVES?
+Las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para hacer el pago con más seguridad.
+
+✅ ¿QUE ES EXTRAPOLACIÓN?
+Extrapolar es cuando sacamos un bin a partir de una tarjeta de credito existente, por ejemplo:
+
+3764010x5xxx03x
+37640101x526xxx
+3764010xx5x6xx7
+3764010xxx2xxx7
+
+✅ ¿CÓMO EXTRAPOLAR UNA ‘CC’ GENERADA A PARTIR DE UN BIN?
+
+Esto sirve para que vuelva a funcionar la tarjeta generada que utilizaste, es muy importante que la guardes, para que le vuelvas a dar una utilidad y disfrutar de ella. Tienes un bin, por ejemplo: 531321xxxxxxxxxx (Deezer Jalando), y con base a éste, generas un par de tarjetas. A partir de que generas dejan de llamarse bins y pasan a ser
+tarjetas de crédito. Escoges una al azar por ejemplo: 5321321654829183
+
+Te vas a la pagina de deezer y al registrar dicha tarjeta que hayas escogido, pasa al primer intento para crearla, pero después de un tiempo no funciona el bin.
+
+Lo que haremos será extrapolar la tarjeta que pasó a la primera al crear la cuenta.
+
+Lo haremos (extrapolar), eliminando los últimos 6 digitos de la tarjeta, Ejemplo: teníamos esta: 5321321654829183 y ahora pasa a ser esto:
+
+5313216568xxxxxx
+
+Generas de nuevo para calar en deezer y ya esta, volvió a pasar.`)
+                  }
+
+		if (budy.includes(`/extrapolar un bin`)) {
+                  reply(`⚜ ¿QUE ES EXTRAPOLACIÓN? ⚜
+
+Extrapolar es cuando sacamos un bin a partir de una tarjeta de credito existente, Por Ejemplo:
+
+3764010x5xxx03x
+37640101x526xxx
+3764010xx5x6xx7
+3764010xxx2xxxxx
+
+Hay 3 métodos de extrapolación: básica,  y avanzada.
+
+🔰 𝗕𝗔𝗦𝗜𝗖𝗔:
+
+Consiste en 2 tipos de extrapolación:
+
+Similitud. 
+Activación.
+
+✅ ACTIVACIÓN
+
+Simplemente tomas una tarjeta Generada con tu bin carbon y cambias los ultimos 6 digitos por la letra 𝘅
+
+Ejemplo:
+
+Tarjeta Usada: 5292202302315781
+
+Resultado: 5292202302xxxxxx 
+
+✅ SIMILITUD
+
+Requiere tener 2 CC del mismo BIN, que son:
+ 
+T1: 5292203820803126
+T2: 5292207483033368
+
+Debemos separar los 6 primeros números de la CC:
+
+[529220] [3820803126]
+[529220] [7483033368]
+
+Y, se van a fijar en el segundo grupo:
+
+[3820803126] y [7483033368]
+
+Después, van a comprobar SIMILITUDES entre estos dos, es decir, vas al segundo grupo que se separó:
+ 
+[3820803126]
+[7483033368]
+
+Ordenarlas de este modo, y después, comparar.Si tienen el mismo número, se quedan iguales, si no, se reemplazan por una X, es decir:
+
+T1: [3820803126]
+T2: [7483033368]
+
+Quedaria asi: [xxxxxx3xxx]
+
+Ahora, juntas el bin con tu resultado: 
+
+New Bin: 529220xxxxxx3xxx
+
+Y ese es tu nuevo bin extrapolado
+
+🔰 𝗔𝗩𝗔𝗡𝗭𝗔𝗗𝗔:
+
+Esta es una compleja, pero muy buena para generar lives.
+Muy poca gente la conoce, ya que esta fue extraída de el software de generación de tarjeta SoFlA de un banco b10*sum:
+
+T1: 5292208177212441 
+T2: 5292204657663815 
+
+Para este método, debemos usar únicamente los 10 dígitos de dos CCs. 
+Pero, como hago si las CCs tienen diferentes números? 
+Bueno. Del tercer grupo, solo se usarán los 2 números de la tarjeta.
+
+5292 2081 x72x xxxx 
+5292 2081 x76x xxxx
+
+Se suman
+
+7+2= 09 
+7+6= 13
+ 
+A partir de estos resultado, se divide el número entre 2: 
+
+7+2= 09÷2=4.5 
+7+6= 13÷2=7.5 
+
+Después, se multiplica por 5. 
+
+7+2= 09÷2=4.5=22.5 
+7+6= 13÷2=7.5 =37.5 
+
+Si existe un decimal (.) y el número es de dos cifras, se borra el decimal. 
+
+Y el resultado se suma: 
+
+22+37 =59 
+
+Así que terminaria:
+ 
+5292 2081 59xx xxxx
+
+✅ INDENTACION LOGICA:
+
+5292208177212441
+ 
+Debemos separar los 6 primeros números de la CC:
+
+[ 529220] [8177212441]
+
+Y, se van a fijar en el segundo grupo
+
+[8177212441]
+
+Después, este grupo lo deben separar en modo (3-4-3), es decir: 
+
+[817] [7212] [441]
+
+Y, eliminan el número central: 
+
+[8x7] [7xx2 [4x1] 
+
+Después, ordenan el BIN con el resto: 
+
+Resultado Final: 5292208x77xx24x1
+
+✅ MATERIALDINVERTER
+
+Este es algoritmo privado el cual afecta a las tarjetas generadas después de mediados del 2017, fue tomado del software SoFlA del Banco de Bogotá. 
+
+Este es el mas, mas complejo de todos y tiene un 100% de seguridad de sacar lives si lo usas bien. 
+
+Este método requiere 2 CCs, las cuales comúnmente son expedidas entre Octubre 2016 a Febrero 2017. 
+Así que:
+
+T1: 5292208177212441 
+T2: 5292204657663815
+
+Tienes que separar T1 y T2 en 2 grupos de 8 digitos 
+
+T1:[52922081 [77212441 
+T2:[52922046 [57663815 
+
+Ahora, vas a agarrar T2 y vas a ordenarlo del siguiente orden para poder multiplicarlo 
+5×5= 25 
+2×7= 14 
+9×6= 54 
+2×6= 12 
+2×3= 6 
+0×8= 0 
+4×1= 4 
+6×5= 30 
+
+Vas a escribir cada resultado en una línea pegado: 
+2514541260430
+
+Como pueden ver, hay 13 números, debemos hacer que sean 8, así que borramos los últimos 
+
+5 para que nos queden 8 que serían: 
+
+Nos queda: 25145412 
+
+Ahora, vamos a pegar el primer grupo con nuestro resultado: 
+
+=5292204625145412 
+
+Ahora, vamos a realizar extrapolación basica, similitud entre T1 y el resultado, por eso, separamos: 
+
+T1: 5292208177212441 
+
+R1: 5292204625145412 
+
+Nuestro resultado seria: 529220xxxxxxx4xx 
+
+Ahora, si el último dígito termina siendo una X, este se reemplaza por 1 
+
+El resultado final sería: 529220xxxxxxx4x1`)
+                  }
+					
+		if (budy.includes(`/verificar un bin`)) {
+                  reply(`Bueno geys. En esta oportunidad les enseñare a Verificar su BIN
+Primero necesitaremos un BIN. La ves pasada les enseñe como sacarlo xd.
+
+Para ahorrar toda esa clase usaremos al bot del grupo, bueno una ves obtenido el BIN ( 410453 ). 
+
+Luego nos dirigimos a https://www.bincodes.com/bin-checker/
+
+Una ves abierta la pagina. Buscamos el apartado Bank Identification o en español ( Número De Identificación ).Y ahi colocaremos nuestro BIN ( 410453 )
+
+Ahora tendremos que validar,completar el Captcha.
+
+Una ves hecho esto, damos clic en la opción CHEQUE.
+
+Esperamos unos minutos y nos saldra la información de nuestro BIN.
+
+Resultado de la validación de BIN
+
+410453 es un BIN válido.
+
+Detalles del BIN
+
+COMPARTIMIENTO: 410453
+
+Banco emisor: KEMBA CREDIT UNION, INC.
+
+Marca de carro: VISA
+
+Tipo de tarjeta: CRÉDITO
+
+Nivel de tarjeta: CLÁSICO
+
+Nombre de país: ESTADOS UNIDOS
+
+BY: @JOSEPHBINERO`)
+                  }
+
+		if (budy.includes(`/que es live`)) {
+                  reply(`-Una live es una Cc que será aprobada en el lugar de donde es el bin
+
+Una live igual es una cc que tiene fondos.
+
+¿Cómo sacar una live?
+
+Las Lives se pueden sacar de diferentes maneras
+
+1- Una live se puede sacar desde un bot de Telegram ya sea gratuito o de paga, esos son los checkers spam [Anti Spam]
+
+2- Otra forma de sacar una Live es comprando un checker web, esos son checkers que no tienen [Anti Spam] y puedes cargar varias ccs sin necesidad de esperar un molesto [Anti Spam]
+
+¿Qué es un checker y cuanto valen?
+
+-Un checker es un sistema el cual se encarga de verificar que una cc está live
+
+-El precio de un checker varía de cada dueño del checker
+
+¿Qué es un Gate? Un Gate es un lugar especifico para meter una cc, existen varios tipos de Gate como:
+
+-Multigata
+
+-CVV gate
+
+-CCN GATE
+
+¿Qué es CCN Y CVV?
+
+-Una CCN es una cc que tiene correcto los 16 dígitos y la fecha correcta pero el código de seguridad es incorrecta
+
+-Una CVV es una cc que tiene todo correcto
+
+¿Para qué sirve una CVV?
+
+La CVV sirve para hacer compras físicas u comprar algún servicio sin riesgo a que el mismo se caiga a las semanas o días.`)
+                  }
+	if (budy.includes(`/iban`)) {
+                  reply(`⚠️| Método Iban.
+
+Bueno chicos hoy les voy a enseñar un metodo sencillo que puede sacarlos de un apuro, se llama Iban o Sepa...
+
+¿Y que es esto?
+
+El International Bank Account Number "Código Internacional de Cuenta Bancaria" en su traducción al español, es un código alfanumérico que identifica una cuenta bancaria determinada en una entidad financiera en cualquier lugar del mundo. 
+Es decir, a cada cuenta le corresponde un único IBAN mediante el cual se identifica el país, la entidad, la oficina y la cuenta. 
+Se trata de un estándar del Comité Europeo de Estándares Bancarios, que a su vez cumple con el estándar ISO 13616.
+
+A continuación les mostrare una lista de países que usan este metodo (esta actualizada así que aprecienlo)
+
+Caracteres Albania [🇦🇱]~[28]: AL35202111090000000001234567     
+  Caracteres Andorra [🇦🇩]~[24] AD1400080001001234567890  
+Caracteres Azerbaiyán [🇦🇿]~[28] AZ96AZEJ00000000001234567890         
+ Caracteres Bahréin [🇧🇭]~[22] BH02CITI00001077181611  
+Caracteres Bélgica [🇧🇪]~[16]
+BE71096123456769  
+Caracteres Bosnia [🇧🇦]~[20]: BA275680000123456789 
+Caracteres Brasil [🇧🇷]~[29]: BR1500000000000010932840814P2          
+ Caracteres Bulgaria [🇧🇬]~[22]:
+BG18RZBB91550123456789 
+Caracteres Costa Rica [🇨🇷]~[22] CR37012600000123456789  
+Caracteres Dinamarca [🇩🇰]~[18]: DK9520000123456789 
+Caracteres Alemania [🇩🇪]~[22]: DE91100000000123456789  
+Caracteres Salvador [🇸🇻]~[28]:
+SV43ACAT00000000000000123123     
+ Caracteres Estonia [🇪🇪]~[20]:
+EE471000001020145685    
+Caracteres Finlandia [🇦🇽]~[18]:
+FI1410093000123458  
+Caracteres Francia [🇨🇵]~[27]: FR7630006000011234567890189   
+  Caracteres Georgia [🇬🇪]~[22]:
+GE60NB0000000123456789   
+Caracteres Polonia [🇵🇱]~[28]:
+PL10105000997603123456789123  
+  Caracteres Portugal [🇵🇹]~[25]:
+PT50002700000001234567833  
+Caracteres Rumania [🇲🇩]~[24]:
+RO09BCYP0000001234567890  
+Caracteres Suiza [🇨🇭]~[21]:
+CH5604835012345678009 
+Caracteres Serbia [🇷🇸]~[22]
+RS35105008123123123173    
+Caracteres Eslovenia [🇸🇮]~[19] SI56192001234567892`)
+                  }
+					
+		if (budy.includes(`/iban`)) {
+                  reply(`⚠️| Método Iban Parte ²
+
+~Basicamente esa es la teoría de que es Iban 😛.
+
+¿Para que funciona?
+
+•Se utiliza como metodo alternativo al Bin, ya que puede que funcione de diferente manera en paginas destinadas a otros servicios como es el caso mas común con Napster.
+ Su uso puede varias, ya es cuestión de ustedes Intentar.
+
+Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servidores así que no funciona Pero no se preocupen cualquier pagina con un dominio Aleman o de los países anteriormente mostrados servira.
+
+¿Que necesitamos para este metodo?
+
+[✓] VPN activado en Alemania (puede que funcione cualquier VPN pero recomiendo uno como HMA).
+
+[✓] Entrar en la página fake-it.ws y seleccionar la Bandera de Alemania.
+
+[✓]  Intentar en sitios que acepten este tipo de pago. 
+
+[1️⃣] En primer lugar con nuestro VPN Activado, ingresamos a fake-it.ws
+
+[⚠️] Chicos las identidades falsas son clave en este mundo. 
+
+[⚠️]Algunas paginas piden minimo algo de relación entre nombre y vivienda
+
+[⚠️] Incluso numero de celular, que aunque no lo verifiquen puede llegar a molestar buscarlo.
+
+[✓] Así que usen fake-it.ws
+
+[✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
+                  }
+		// FINAL AUTORESPUESTA - BINNING
+					
                 // INICIO AUTORESPUESTA - HACKING
 		if (budy.includes(`/sqlmap`)) {
                   reply(`💉Sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación Defectos de inyección SQL y apoderamiento de servidores de bases de datos. Viene con un potente motor de detección, muchas funciones de nicho. para el mejor probador de penetración y una amplia gama de cambios que duran desde la toma de huellas digitales de la base de datos, hasta la obtención de datos de la base de datos, para acceder al sistema de archivos subyacente y ejecutar comandos en el sistema operativo a través de conexiones fuera de banda..💉
