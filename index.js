@@ -3024,9 +3024,71 @@ http://www.jewelry.com/
 http://www.jewelbasket.com/
 www.refurb4less.com`)
                   }
+
+if (budy.includes(`/apkbinero`)) {
+                  reply(`⭐️ NUEVA VERSION
+💫 BINERIA UNIVERSAL
+
+💁🏼‍♂️ ᴅɪsғʀᴜᴛᴀ ᴅᴇ ʟᴀ ᴍᴇᴊᴏʀ ᴀᴘʟɪᴄᴀᴄɪᴏɴ ᴅᴇ ᴀᴘʀᴇɴᴅɪᴢᴀᴊᴇ ᴅᴇ ᴄᴀʀᴅɪɴɢ - ʜᴀᴄᴋɪɴɢ ʏ ʙɪɴɴɪɴɢ.
+➖➖➖➖➖➖➖➖➖➖➖➖
+👑 ɪɴғᴏ:
+🔹ᴀᴘᴋ ᴏᴘᴛɪᴍɪᴢᴀᴅᴏ ʏ ᴍᴀs ғʟᴜɪᴅᴏ.
+🔹ɴᴏ ᴄᴏɴᴛɪᴇɴᴇ ᴘᴜʙʟɪᴄɪᴅᴀᴅ.
+🔹ᴇɴᴄᴏɴᴛʀᴀʀᴀs ʙɪɴs ʏ ᴍᴇᴛᴏᴅᴏs ғᴜɴᴄɪᴏɴᴀʟᴇs.
+🔹ᴀᴘᴋs ᴘʀᴇᴍɪᴜɴs
+🔹ɢᴇɴᴇʀᴀᴅᴏʀ ᴅᴇ ᴛᴀʀᴊᴇᴛᴀs
+🔹ᴇxᴛʀᴀᴘᴏʟᴀᴅᴏʀ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴏ - sᴏғɪᴀ.
+🔹ᴄᴏɴᴛᴇɴᴇᴅᴏʀᴇs - ʙɪɴs.
+🔹ᴘᴇʟɪᴄᴜʟᴀs ʏ sᴇʀɪᴇs ɴᴜᴇᴠᴀs.
+🔹ᴛᴜᴛᴏʀɪᴀʟᴇs ᴛᴀɴᴛᴏ ᴇɴ ᴠɪᴅᴇᴏ ᴄᴏᴍᴏ ᴇɴ ᴛᴇxᴛᴏ.
+🔹 ʜᴇʀʀᴀᴍɪᴇɴᴛᴀs ᴅᴇ ʜᴀᴄᴋɪɴɢ - ᴇɴᴛʀᴇ ᴏᴛʀᴀs ᴍᴜᴄʜᴀs ᴄᴏsᴀs.
+
+🔱 ᴅᴇsᴄᴀʀɢᴀʟᴀ ᴛᴏᴛᴀʟᴍᴇɴᴛᴇ ɢʀᴀᴛɪs ᴀǫᴜɪ: https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
+                  }
+			// GRUPOS OFICIALE$ TEAM B1NER1A UN1VERSAL		
+		  if (budy.includes(`/wordbinners`)) {
+                  reply(`♔⃟𝗪𝗢𝗥𝗗 𝗕𝗜𝗡𝗡𝗘𝗥𝗦♔⃟
+
+⚠️ 𝚁𝙴𝙶𝙻𝙰𝚂:
+
+🔯 𝐒𝐞𝐫 𝐚𝐜𝐭𝐢𝐯𝐨 𝐲 𝐚𝐩𝐨𝐫𝐭𝐚𝐫 𝐜𝐨𝐧 𝐦𝐚𝐭𝐞𝐫𝐢𝐚𝐥
+
+✡ 𝐂𝐞𝐫𝐨 𝐬𝐩𝐚𝐦 - 𝐞𝐧𝐥𝐚𝐜𝐞𝐬 - 𝐯𝐞𝐧𝐭𝐚𝐬
+
+✡ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚𝐫 𝐚 𝐭𝐨𝐝𝐨𝐬 𝐥𝐨𝐬 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨
+
+✡ 𝐄𝐬𝐭𝐞 𝐞𝐬 𝐮𝐧 𝐠𝐫𝐮𝐩𝐨 𝐝𝐞 𝐚𝐩𝐨𝐫𝐭𝐞𝐬 𝐦𝐚𝐬 𝐧𝐨 𝐝𝐞 𝐯𝐞𝐧𝐭𝐚𝐬
+
+✡ 𝐍𝐨 𝐩𝐞𝐝𝐢𝐫 𝐚𝐝𝐦𝐢, 𝐩𝐨𝐫 𝐪𝐮𝐞 𝐧𝐨 𝐭𝐞 𝐥𝐚 𝐯𝐚𝐦𝐨𝐬 𝐚 𝐝𝐚𝐫
+
+✡ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐞𝐥 𝐢𝐧𝐠𝐫𝐞𝐬𝐨 𝐝𝐞 𝐧𝐮𝐦𝐞𝐫𝐨𝐬 𝐯𝐢𝐫𝐭𝐮𝐚𝐥𝐞𝐬
+
+🔯 𝐋𝐢𝐧𝐤 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
+
+🛐 𝑶𝒘𝒏𝒆𝒓: Joel`)
+                  }
 		// FINAL AUTORESPUESTA - BINNING
 					
                 // INICIO AUTORESPUESTA - HACKING
+		if (budy.includes(`/termux`)) {
+                  reply(`📱TERMUX📱
+
+Si eres nuevo en este mundo de la informática y el hacking, debes estar pensando... ¿Cómo empezar en este mundo?
+Debido a que muchas personas les interesa este mundo pero no saben como empezar, me he dado el trabajo de escribir esta pequeña guía sobre el uso de Termux para que aprendas a navegar en esta terminal de entorno linux disponible para los dispositivos android que tengan una versión android 5.0.1 o superior, cabe aclarar que Termux se encuentra disponible de forma gratuita en la Play Store así que no te preocupes por su instalación ya que es algo muy básico instalar aplicaciones de la Play Store.
+También quiero aclarar que ésta pequeña guía está hecha en base a mis conocimientos y también está hecha para que los nuevos en este mundo puedan comprender su uso, es decir, no te voy a nombrar las características de Termux ni nada por el estilo ya que eso solo te confundiría al empezar y yo quiero que lo comprendas, mas no darte conceptos que no sabes que significan.
+Antes de empezar, quiero que comprendas bien la respuesta a estas pequeñas preguntas:
+
+📱¿Qué es Termux?📱
+
+Termux es una terminal de entorno linux para dispositivos android, es decir, así como Windows, Kali Linux, Ubuntu, Parrot, etc... tienen su terminal de comandos, android también cuenta con una de ellas y ésta se llama Termux.
+Esta terminal de comandos puede ser instalada sin la necesidad de realizar complicadas configuraciones, es decir, al instalar esta terminal en tu dispositivo android, ocupara muy poco espacio ya que ésta viene desde cero, no tiene instalado ningún paquete y tampoco tiene permisos de almacenamiento, todo tendrás que realizarlo tú de forma manual a medida que vayas avanzando. Termux avanza al igual que tú, así que esta terminal depende de ti, tú tienes el control, tú decides qué hacer con ella.
+Comprendido todo ésto, te estarás preguntando...
+
+📱¿Para qué sirve Termux?📱
+
+Termux puede servir para realizar varias pruebas de hacking, como por ejemplo, hacking a redes sociales, redes Wi-Fi, páginas web, e incluso puede servir para programar, es decir, con Termux tendrás oportunidad de aprender a hackear y ver lo vulnerables que pueden ser las redes sociales, páginas web, routers, entre otras.`)
+                  }
+					
 		if (budy.includes(`/sqlmap`)) {
                   reply(`💉Sqlmap es una herramienta de prueba de penetración de código abierto que automatiza el proceso de detección y explotación Defectos de inyección SQL y apoderamiento de servidores de bases de datos. Viene con un potente motor de detección, muchas funciones de nicho. para el mejor probador de penetración y una amplia gama de cambios que duran desde la toma de huellas digitales de la base de datos, hasta la obtención de datos de la base de datos, para acceder al sistema de archivos subyacente y ejecutar comandos en el sistema operativo a través de conexiones fuera de banda..💉
 
