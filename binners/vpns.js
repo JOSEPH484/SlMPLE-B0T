@@ -19,8 +19,7 @@ const vpns = (prefix, pushname) => {
 🌐 TOUCH VPN
 🔗 https://cutt.ly/IYKgCZH
 
-🔱 @BINERIAUNIVERSAL
-`
+🔱 @BINERIAUNIVERSAL`
 
 }
 
