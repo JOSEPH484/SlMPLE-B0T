@@ -1,13 +1,7 @@
  /*
-* ShanBot es una creación de shanduy
-* ShanBot no tiene ningun fin de lucro
-* shanduy se reserva todos los derechos de autor
+* Todos los derechos reservados a shanduy
+* JosephBot no tiene ningun fin de lucro
 * © 2021 shanduy, INC.
-
-Cualquier copia que utilize mi ApiKey sera dado de baja
-
-- Que hay de nuevo?
-* Nada
 */
 
 const {
@@ -121,6 +115,8 @@ const antinsta = JSON.parse(fs.readFileSync('./src/antinsta.json'))
 const antikwai = JSON.parse(fs.readFileSync('./src/antikwai.json'))
 const antiwa = JSON.parse(fs.readFileSync('./src/antiwa.json'))
 const antidiscord = JSON.parse(fs.readFileSync('./src/antidiscord.json'))
+const antiventa = JSON.parse(fs.readFileSync('./src/antiventa.json'))
+const antitrava = JSON.parse(fs.readFileSync('./src/antitrava.json'))
 
 /******FIN DE ARCHIVOS ANTILINK POR SHANDUY******/
 
@@ -532,7 +528,7 @@ if (budy.includes("Vendo")){
                 if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Ventas 🚮`)
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: No Cambios 🚮`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
