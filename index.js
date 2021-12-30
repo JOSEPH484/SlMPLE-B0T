@@ -1743,7 +1743,7 @@ break
 	case 'owner':
 	       client.sendMessage(from, {displayname: "ᝰJσʂҽρԋ᭄", vcard: vcard}, MessageType.contact, { quoted: mek})
 		client.sendMessage(from, 'Alguna duda o queja, ahi tienes el número del creador',MessageType.text, { quoted: mek} )
-                const none = fs.readFileSync('./mp3/creador/roleo.mp3');
+                const none = fs.readFileSync('./audio/creador.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 break
 	
