@@ -104,7 +104,6 @@ const help = (prefix) => {
  ❍➣ 𝐎𝐓𝐇𝐄𝐑𝐒
 
  ╭❏
- │⊷ ${prefix}número virtual
  │⊷ ${prefix}canal inmunes
  │⊷ ${prefix}creador
  │⊷ ${prefix}versión
