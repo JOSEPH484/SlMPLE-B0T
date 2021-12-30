@@ -33,19 +33,19 @@ const help = (prefix) => {
  │⊷ ${prefix}ngrok
  │⊷ ${prefix}phoneinfoga
  │⊷ ${prefix}fotosploit
- │⊷ ${prefix}sqlmap
- │⊷ ${prefix}bingen
- │⊷ ${prefix}socialsploit
- │⊷ ${prefix}osiris
+ │⊷ ${prefix}sqlmap ----
+ │⊷ ${prefix}bingen ----
+ │⊷ ${prefix}socialsploit ---
+ │⊷ ${prefix}beef
  │⊷ ${prefix}grabscam
- │⊷ ${prefix}hammer
- │⊷ ${prefix}kali-nethunter
+ │⊷ ${prefix}hammer ----
+ │⊷ ${prefix}kali-nethunter ----
  │⊷ ${prefix}cupp
- │⊷ ${prefix}infectador-framework
- │⊷ ${prefix}evil-create-framework
- │⊷ ${prefix}wiki-termux
- │⊷ ${prefix}doxweb
- │⊷ ${prefix}kickthemoutprojet
+ │⊷ ${prefix}infectador-framework ---
+ │⊷ ${prefix}evil-create-framework ----
+ │⊷ ${prefix}wiki-termux --- 
+ │⊷ ${prefix}cupp
+ │⊷ ${prefix}kickthemoutprojet ----
  ╰❏
 
  ❍➣ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑
