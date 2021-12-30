@@ -41,11 +41,11 @@ const help = (prefix) => {
  │⊷ ${prefix}hammer
  │⊷ ${prefix}kali-nethunter
  │⊷ ${prefix}cupp
- │⊷ ${prefix}infectador-framework ---
- │⊷ ${prefix}evil-create-framework ----
- │⊷ ${prefix}wiki-termux --- 
+ │⊷ ${prefix}infectador-framework
+ │⊷ ${prefix}evil-create-framework
+ │⊷ ${prefix}wiki-termux
  │⊷ ${prefix}cupp
- │⊷ ${prefix}kickthemoutprojet ----
+ │⊷ ${prefix}kickthemoutprojet
  ╰❏
 
  ❍➣ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑
