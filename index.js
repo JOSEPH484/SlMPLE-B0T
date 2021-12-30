@@ -364,6 +364,8 @@ async function starts() {
 			const groupName = isGroup ? groupMetadata.subject : ''
 			const isAntiLink = isGroup ? antilink.includes(from) : false
 			const isAntiDiscord = isGroup ? antidiscord.includes(from) : false
+			const isAntiVenta = isGroup ? antiventa.includes(from) : false
+			const isAntiTrava = isGroup ? antitrava.includes(from) : false
 			const isAntInsta = isGroup ? antinsta.includes(from) : false
 			const isAntiTik = isGroup ? antitik.includes(from) : false
 			const isAntiFace = isGroup ? antiface.includes(from) : false
