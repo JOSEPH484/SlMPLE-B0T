@@ -2409,7 +2409,19 @@ break
 //CREACION DE STICKERS Y VARIOS	            
 		
 	//SERVICIO DE MUSICA Y VIDEO 			
-				
+		case 'play3':   
+	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: /play3 Panocha - Faraon Love Shaddy')
+		if (!isUser) return reply(mess.only.daftarB)
+                reply(mess.only.musica)
+                play = body.slice(5)
+                anu = await fetchJson(`https://api.zeks.me/api/ytmp3?q=${play}&apikey=hamilton20`)
+                if (anu.error) return reply(anu.error)
+                infomp3 = `*⌜Cancion Encontrada ✅⌟*\n◉ *Título:* ${anu.result.title}\n◉ *Fuente:* ${anu.result.source}\n◉ *Tamaño:* ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
+                buffer = await getBuffer(anu.result.thumbnail)
+                lagu = await getBuffer(anu.result.url_audio)
+                client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
+                client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
+                break		
 		/*		
 	        case 'play':   
 	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: *play Industry Baby - Lil Nas X')
