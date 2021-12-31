@@ -2405,7 +2405,7 @@ break
 						if (!isUser) return reply(mess.only.daftarB)
 					        if (args.length < 1) return reply(`¿Dónde está el texto?\n*Ejemplo:* ${prefix}colores Joseph`)
 						reply(mess.only.attp)
-					        colores2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(6)}`)
+					        colores2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(50)}`)
 						client.sendMessage(from, colores2, MessageType.sticker, {quoted: mek})
 						break
 					
