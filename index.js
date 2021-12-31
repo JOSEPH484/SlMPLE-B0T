@@ -2395,10 +2395,18 @@ break
 					
 					case 'attp':
 						if (!isUser) return reply(mess.only.daftarB)
-					        if (args.length < 1) return reply(`¿Dónde está el texto?\n*Ejemplo:* ${prefix}attp shanduy`)
+					        if (args.length < 1) return reply(`¿Dónde está el texto?\n*Ejemplo:* ${prefix}attp Joseph`)
 						reply(mess.only.attp)
 					        attp2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(6)}`)
 						client.sendMessage(from, attp2, MessageType.sticker, {quoted: mek})
+						break
+					
+					case 'colores':
+						if (!isUser) return reply(mess.only.daftarB)
+					        if (args.length < 1) return reply(`¿Dónde está el texto?\n*Ejemplo:* ${prefix}colores Joseph`)
+						reply(mess.only.attp)
+					        colores2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(6)}`)
+						client.sendMessage(from, colores2, MessageType.sticker, {quoted: mek})
 						break
 					
 			          case 'qrcode':
@@ -2418,7 +2426,7 @@ break
 						fs.unlinkSync(media)
 						if (err) return reply('❌ No se pudo convertir el sticker en imágenes')
 						buffer = fs.readFileSync(ran)
-						client.sendMessage(from, buffer, image, {quoted: mek, caption: '*⌈ Imagen convertida ✅ ⌉*\n\n_*by shanduy*_'})
+						client.sendMessage(from, buffer, image, {quoted: mek, caption: '⌈ Imagen convertida ✅ ⌉\n\nBY JOSEPH'})
 						fs.unlinkSync(ran)
 					})
 					break
