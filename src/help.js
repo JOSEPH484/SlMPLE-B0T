@@ -19,10 +19,11 @@ const help = (prefix) => {
  │⊷ ${prefix}introducción carding
  │⊷ ${prefix}sitios cardeables
  │⊷ ${prefix}plataformas para calar
- │⊷ ${prefix}vpn
  │⊷ ${prefix}navegadores
  │⊷ ${prefix}sitios sms
  │⊷ ${prefix}apk binero
+ │⊷ ${prefix}shoppay
+ │⊷ ${prefix}bineriauniversal
  ╰❏
 
  ❍➣ 𝐇𝐀𝐂𝐊𝐈𝐍𝐆
@@ -104,17 +105,10 @@ const help = (prefix) => {
  ❍➣ 𝐎𝐓𝐇𝐄𝐑𝐒
 
  ╭❏
- │⊷ ${prefix}canal inmunes
  │⊷ ${prefix}creador
  │⊷ ${prefix}versión
  │⊷ ${prefix}chiste
  │⊷ ${prefix}datos
- │⊷ ${prefix}play3
- │⊷ ${prefix}netflix
- │⊷ ${prefix}shoppay
- │⊷ ${prefix}bineriauniversal
- │⊷ ${prefix}wordbinners
- │⊷ ${prefix}akatsuki
  ╰❏`
 }
 
