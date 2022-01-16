@@ -270,9 +270,6 @@ async function starts() {
 			if (anu.action == 'add') {
 				num = anu.participants[0]
 				teks = `Hola *@${num.split('@')[0]}* ✨\n\nBienvenido a: *${mdata.subject}* ✨\n\nGrupo en el que encontraras todo tipo de cuentas, bins y métodos ✨\n\nEspero disfrutes de tu estadía en este grupo ✨\nRecuerda leer las reglas del grupo para no tener ningún problema ✨`
-				// Mensaje de bienvenido con audio
-				const none = fs.readFileSync('./audio/bienvenido.mp3');
-				client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
@@ -1575,12 +1572,6 @@ if (budy.includes("reconchabienputa")){
 		case 'akatsuki':
 		client.sendMessage(from, akatsuki(prefix, sender), text, {quoted: mek})
 		break
-					/*
-		case 'vpns':
-		case 'vpn':
-		client.sendMessage(from, vpns(prefix, sender), text, {quoted: mek})
-		break
-					*/
 		case 'navegadores':
 		client.sendMessage(from, navegadores(prefix, sender), text, {quoted: mek})
 		break
@@ -1702,26 +1693,7 @@ console.log(e)
 reply('Hubo un error intentalo nuevamente :/')
 }
 break
-
-					/*
-case 'topcabros':
-try{
-if (!isUser) return reply(mess.only.daftarB)
-if (!isGroup) return reply(mess.only.group)
-d = []
-teks = 'Top 10 de los mas cabros del grupo\n\n'
-for(i = 0; i < 10; i++) {
-r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
-teks += `➔ @${groupMembers[r].jid.split('@')[0]}\n`
-d.push(groupMembers[r].jid)
-}
-mentions(teks, d, true)
-} catch (e) {
-console.log(e)
-reply('Hubo un error intentalo nuevamente :/')
-}
-break
-					*/								
+								
 case 'chiste':
             if (!isUser) return reply(mess.only.daftarB)	
             respuesta = [`¿Cuál es el colmo de un ciego?\n Enamorarse a primera vista.`, `*¿Qué le dijo un zapato a otro?* \n - Qué vida más arrastrada llevas. \n ¡MIRA LOS ZAPATOS QUE EXISTEN PARA ANDAR POR EL TECHO!`, `¿Qué le dijo un cable a otro cable? \n Somos los intocables.`, `*¿Qué le dijo batman al papel higiénico?* \n Tu eres el único que conoce mi baticueva.`, `¿Por qué llora un libro de matemáticas? \n ¡Porque tiene muchos problemas!`, `¿Qué está al final de todo? ¡La letra o!`, `¿Por qué el profe de música tiene una escalera? \n ¡Para poder llegar a las notas más altas!`, `¿Qué le dice una iguana a su hermana gemela? \n Somos iguanitas`, `*¿Cuál es el colmo del electricista?* \n ¡Que su mujer se llame Luz!`, `¿Cómo se dice pañuelo en japonés? \n Sacamoko`, `¿Cuál es el pez que huele mucho? \n ¡Peztoso!`, `¿Sabes cómo se queda un mago después de comer? \n Magordito` ]
@@ -2214,6 +2186,7 @@ client.sendMessage(from, yeh, text, {quoted: mek, detectLinks: false})
 break
 
 case 'closegc':
+case 'cerrar':
 client.updatePresence(from, Presence.composing) 
 if (!isGroup) return reply(mess.only.group)
 if (!isGroupAdmins) return reply(mess.only.admin)
@@ -2227,7 +2200,8 @@ client.groupSettingChange (from, GroupSettingChange.messageSend, true);
 reply(close)
 break
                 
-case 'opengc':                
+case 'opengc':
+case 'abrir':
 client.updatePresence(from, Presence.composing) 
 if (!isGroup) return reply(mess.only.group)
 if (!isGroupAdmins) return reply(mess.only.admin)
@@ -2384,14 +2358,6 @@ break
 						reply(mess.only.attp)
 					        attp2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(6)}`)
 						client.sendMessage(from, attp2, MessageType.sticker, {quoted: mek})
-						break
-					
-					case 'colores':
-						if (!isUser) return reply(mess.only.daftarB)
-					        if (args.length < 1) return reply(`¿Dónde está el texto?\n*Ejemplo:* ${prefix}colores Joseph`)
-						reply(mess.only.attp)
-					        colores2 = await getBuffer(`https://api.xteam.xyz/attp?file&text=${body.slice(50)}`)
-						client.sendMessage(from, colores2, MessageType.sticker, {quoted: mek})
 						break
 					
 			          case 'qrcode':
@@ -2653,8 +2619,9 @@ break
 				        uptime = process.uptime()
                                         client.sendMessage(from, `Velocidad: *${latensi.toFixed(4)} _Second_*\nDevice: *Alcatel Pixi 4*\nRAM: *6Mb*\nData: *10GB*\nRed: *2G*\nEstado: *Bateria Baja*`, text, { quoted: mek})
                                         break
+					
                                 case 'ttp':
-					if (args.length < 1) return reply('Y el texto flaco?')
+					if (args.length < 1) return reply('Y el texto ?')
 					ranp = getRandom('.png')
 					rano = getRandom('.webp')
 					teks = body.slice(4).trim()
@@ -4282,10 +4249,6 @@ Seleccionar la opción número "3" y pulsar enter`)
                   reply(`¡¡Feliz Noche!! Cierra los ojos y espera a que la noche te regale el mejor descanso. Dulces Sueños...!!`)
                   }
 	// VIDEOS
-	if (budy.startsWith(`/netflix`)) {
-        const none = fs.readFileSync('./video/netflix.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration: 66666666666666666666666666666, caption: '📩🔰 MÉTODO NETFLIX 🔰📩\n\n📥| Paso #1: borra cache de la app netflix y conectarse con holavpn a IP VIETNAM🇻🇳\n\n📥| Paso #2: Entra a la app d netflix registrate con tu email y password \n\n📥| Paso #3: para reproducir deja el vpn prendido\n\n🕵️‍♂️| CREDITOS: @TELEGRAM'})
-                  }
 	if (budy.startsWith(`Joseph`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
 		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
