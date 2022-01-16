@@ -69,8 +69,8 @@ const { otak } = require('./src/otak')
 const { levelmenu } = require('./src/levelmenu')
 //**********INICIO MENU BINNERS*********/
 const { bineriauniversal } = require('./binners/bineriauniversal')
-const { akatsuki } = require('./binners/akatsuki')
-const { vpns } = require('./binners/vpns')
+// const { akatsuki } = require('./binners/akatsuki')
+// const { vpns } = require('./binners/vpns')
 const { navegadores } = require('./binners/navegadores')
 const { shoppay } = require('./binners/shoppay')
 /********INICIO MENU HACKING********/
@@ -1574,10 +1574,12 @@ if (budy.includes("reconchabienputa")){
 		case 'akatsuki':
 		client.sendMessage(from, akatsuki(prefix, sender), text, {quoted: mek})
 		break
+					/*
 		case 'vpns':
 		case 'vpn':
 		client.sendMessage(from, vpns(prefix, sender), text, {quoted: mek})
 		break
+					*/
 		case 'navegadores':
 		client.sendMessage(from, navegadores(prefix, sender), text, {quoted: mek})
 		break
@@ -1699,7 +1701,8 @@ console.log(e)
 reply('Hubo un error intentalo nuevamente :/')
 }
 break
-					
+
+					/*
 case 'topcabros':
 try{
 if (!isUser) return reply(mess.only.daftarB)
@@ -1717,26 +1720,7 @@ console.log(e)
 reply('Hubo un error intentalo nuevamente :/')
 }
 break
-					
-case 'topkabros':
-try{
-if (!isUser) return reply(mess.only.daftarB)
-if (!isGroup) return reply(mess.only.group)
-d = []
-teks = 'Top 10 de los mas kabros del grupo\n\n'
-for(i = 0; i < 10; i++) {
-r = Math.floor(Math.random() * groupMetadata.participants.length + 0)
-teks += `➔ @${groupMembers[r].jid.split('@')[0]}\n`
-d.push(groupMembers[r].jid)
-}
-mentions(teks, d, true)
-} catch (e) {
-console.log(e)
-reply('Hubo un error intentalo nuevamente :/')
-}
-break
-					
-					
+					*/								
 case 'chiste':
             if (!isUser) return reply(mess.only.daftarB)	
             respuesta = [`¿Cuál es el colmo de un ciego?\n Enamorarse a primera vista.`, `*¿Qué le dijo un zapato a otro?* \n - Qué vida más arrastrada llevas. \n ¡MIRA LOS ZAPATOS QUE EXISTEN PARA ANDAR POR EL TECHO!`, `¿Qué le dijo un cable a otro cable? \n Somos los intocables.`, `*¿Qué le dijo batman al papel higiénico?* \n Tu eres el único que conoce mi baticueva.`, `¿Por qué llora un libro de matemáticas? \n ¡Porque tiene muchos problemas!`, `¿Qué está al final de todo? ¡La letra o!`, `¿Por qué el profe de música tiene una escalera? \n ¡Para poder llegar a las notas más altas!`, `¿Qué le dice una iguana a su hermana gemela? \n Somos iguanitas`, `*¿Cuál es el colmo del electricista?* \n ¡Que su mujer se llame Luz!`, `¿Cómo se dice pañuelo en japonés? \n Sacamoko`, `¿Cuál es el pez que huele mucho? \n ¡Peztoso!`, `¿Sabes cómo se queda un mago después de comer? \n Magordito` ]
@@ -1850,10 +1834,10 @@ case 'datos':
 					teks = (args.length > 1) ? body.slice(7).trim() : ''
 					teks += `  Total : ${groupMembers.length}\n`
 					for (let mem of groupMembers) {
-						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
+						teks += ` │⊷ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions(' ╭❏ MENCIONANDO\n │⊷ '+teks+' ╰❏ ⌜ JOSEPH 🇧🇪⌟', members_id, true)
+					mentions(' ╭❏ MENCIONANDO\n │⊷ '+teks+' ╰❏ MENCIONANDO', members_id, true)
 					break
 			case 'firmes':
 				client.updatePresence(from, Presence.composing) 
@@ -1867,7 +1851,7 @@ case 'datos':
 						teks += `╠➥ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions('╔══✪〘 MENCIONANDO 〙✪══\n╠➥'+teks+'╚═〘 BY JOSEPH-BOT 〙', members_id, true)
+					mentions('╔══✪〘 ¡FIRMES CARAJO! 〙✪══\n╠➥'+teks+'╚═〘 BY JOSEPH-BOT 〙', members_id, true)
 					break
                                 case 'send':
 					var pc = body.slice(6)
@@ -2450,20 +2434,7 @@ break
 					*/
 //CREACION DE STICKERS Y VARIOS	            
 		
-	//SERVICIO DE MUSICA Y VIDEO 			
-		case 'play3':   
-	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: /play3 Panocha - Faraon Love Shaddy')
-		if (!isUser) return reply(mess.only.daftarB)
-                reply(mess.only.musica)
-                play = body.slice(5)
-                anu = await fetchJson(`https://api.zeks.me/api/ytmp3?q=${play}&apikey=hamilton20`)
-                if (anu.error) return reply(anu.error)
-                infomp3 = `*⌜Cancion Encontrada ✅⌟*\n◉ *Título:* ${anu.result.title}\n◉ *Fuente:* ${anu.result.source}\n◉ *Tamaño:* ${anu.result.size}\n\n*ESPERE ENVIANDO SU ARCHIVO MP3 ⚠*`
-                buffer = await getBuffer(anu.result.thumbnail)
-                lagu = await getBuffer(anu.result.url_audio)
-                client.sendMessage(from, buffer, image, {quoted: mek, caption: infomp3})
-                client.sendMessage(from, lagu, audio, {mimetype: 'audio/mp4', filename: `${anu.title}.mp3`, quoted: mek})
-                break		
+	//SERVICIO DE MUSICA Y VIDEO 					
 		/*		
 	        case 'play':   
 	        if (args.length < 1) return reply('Donde esta el nombre de la canción?\n\nEjemplo: *play Industry Baby - Lil Nas X')
