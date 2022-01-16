@@ -56,6 +56,7 @@ const help = (prefix) => {
  │⊷ ${prefix}stickergif
  │⊷ ${prefix}toimg
  │⊷ ${prefix}attp
+ │⊷ ${prefix}colores
  │⊷ ${prefix}ttp
  │⊷ ${prefix}tts
  ╰❏
