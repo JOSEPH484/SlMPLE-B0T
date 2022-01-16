@@ -4309,7 +4309,7 @@ Seleccionar la opción número "3" y pulsar enter`)
                   }
 	// AUDIOS
 	if (budy.startsWith(`?`)) {
-        const none = fs.readFileSync('./audio/volver a verte.mp3');
+        const none = fs.readFileSync('./audio/beat.mp3');
 		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true, duration:-999999999})
                   }
         if (budy.startsWith(`ª`)) {
