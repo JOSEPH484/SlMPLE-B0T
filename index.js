@@ -1049,7 +1049,7 @@ if (budy.includes("🙈")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Adios....)
+			reply("Adios....")
 		}, 0)
 	}
 
