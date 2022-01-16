@@ -69,8 +69,6 @@ const { otak } = require('./src/otak')
 const { levelmenu } = require('./src/levelmenu')
 //**********INICIO MENU BINNERS*********/
 const { bineriauniversal } = require('./binners/bineriauniversal')
-// const { akatsuki } = require('./binners/akatsuki')
-// const { vpns } = require('./binners/vpns')
 const { navegadores } = require('./binners/navegadores')
 const { shoppay } = require('./binners/shoppay')
 /********INICIO MENU HACKING********/
