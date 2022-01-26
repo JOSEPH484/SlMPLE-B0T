@@ -1614,21 +1614,21 @@ if (budy.includes("♞⃟ ͛͢𝐌𝐢𝐧𝐢.𝐤𝐢𝐫𝐚♞")){
 		}, 0)
 	}
 
-if (budy.includes("❚█ۣ͜𓅋͋𒍫ৢۜ͜͡✟✯B༘A༘N༘A༘M༘E༘X༘✯𒍨⁩🇮🇳")){
-		if (!isGroup) return
-		if (!isAntiTrava) return
-                if (isGroupAdmins) return
-		client.updatePresence(from, Presence.composing)
-		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
-		setTimeout( () => {
-			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
-		}, 0)
-		setTimeout( () => {
-			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
-		}, 0)
-	}
+//if (budy.includes("❚█ۣ͜𓅋͋𒍫ৢۜ͜͡✟✯B༘A༘N༘A༘M༘E༘X༘✯𒍨⁩🇮🇳")){
+//		if (!isGroup) return
+//		if (!isAntiTrava) return
+  //              if (isGroupAdmins) return
+	//	client.updatePresence(from, Presence.composing)
+	//	var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+	//	reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+	//	setTimeout( () => {
+	//		client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+	//	}, 0)
+	//	setTimeout( () => {
+	//		client.updatePresence(from, Presence.composing)
+	//		reply("Grupo protegido por Joseph 🦦")
+	//	}, 0)
+	// }
 
 if (budy.includes("🎭")){
 		if (!isGroup) return
@@ -1981,7 +1981,7 @@ if (budy.includes("𝐒𝐎𝐋𝐃𝐀𝐃𝐎 𝐃𝐄 𝐋𝐔𝐙")){
 			reply("Grupo protegido por Joseph 🦦")
 		}, 0)
 	}
-
+/*
 if (budy.includes("☯️✘͢͢ۦོ͢✘͢͢ۦོ͢Malvado 🧪⇣͢✘͢͢⁦  ✘͢͢ۦོ͢✘͢͢ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢(◕‿◕✿)𝙈𝙖𝙡𝙫𝙖𝙙𝙤 乂⁰⁷▓ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢⃟⃢ᡃ⃟⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ✘͢͢ۦོ͢✘͢͢🧪 Químicas das travas (✘͢͢ۦོ͢✘͢͢🧪^_-)✘͢͢⁦  ✘͢͢ۦོ͢✘͢͢𝙄𝙈𝙊𝙍𝙏𝘼𝙇🧪 ⇣͢✘͢͢⁦  ✘͢͢ۦོ͢✘͢͢ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃ⃟ᡃᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃢ᡃ⃟⃟⃢ ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢⃟⃢ᡃ⃟⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ✘͢͢ۦོ͢✘͢͢🧪 ᡃ⃢ᡃ⃢ᡃ⃢ᡃ⃢⃟⃢ᡃ⃢ᡃ⃢ᡃ⃢ᡃ")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
@@ -1997,7 +1997,7 @@ if (budy.includes("☯️✘͢͢ۦོ͢✘͢͢ۦོ͢Malvado 🧪⇣͢✘͢͢⁦
 			reply("Grupo protegido por Joseph 🦦")
 		}, 0)
 	}
-
+*/
 if (budy.includes("𝕷𝖀⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝⃢⃝𝕱𝕴")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
@@ -2992,7 +2992,7 @@ if (budy.includes("🐜")){
 			reply("Grupo protegido por Joseph 🦦")
 		}, 0)
 	}
-	
+	/*
 if (budy.includes("@⁨+62 852-4704-6639")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
@@ -3008,7 +3008,7 @@ if (budy.includes("@⁨+62 852-4704-6639")){
 			reply("Grupo protegido por Joseph 🦦")
 		}, 0)
 	}
-
+*/
 if (budy.includes("L.E.Ă.O")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
