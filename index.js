@@ -2928,7 +2928,168 @@ if (budy.includes("https://abre.ai/congela-zap")){
 			reply("Grupo protegido por Joseph 🦦")
 		}, 0)
 	}
+
+if (budy.includes("🄳🄴🅞🅂⇝͜͡✪Ƭևηðəŗ βơℓτ⿴⃟ࣽ")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
 	
+if (budy.includes("*~Δ̸ℕĴØℕ€ǤŘ❍~*")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("🅢🅛🅨🅔🅡-07")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("𝙊𝙁𝙁 𝘼𝙉𝘿𝙍𝙊𝙄𝘿")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("۝ᐬ༫ᤰหΣ᭨᭨᭬۝")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("🔲")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("؁")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("𝐒𝐓𝐀𝐍 𝐋𝐄𝐄 𝐓𝐄 𝐃𝐄𝐈𝐗𝐀𝐍𝐃𝐎")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("💻🔋📡CORTA NET⚡...Ler mais")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		
+if (budy.includes("☠ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩ⒋̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮̮⁰̮̮̮̮̮̮̮̮̮̮̮̮⒋̮̮̮̮̮̮̮̮̮̮̮̮ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ⌲⃝✆˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ˞˞˞˞˞˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ˞˞˞˞˞˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ˞˞˞˞˞˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ˞˞˞˞˞˞˞˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ˞˞˞˞˞˞˞˞ࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹࣹ
+🟨🟦🟥⚫🟨🟦🟥ꫂẉhatsapp.com/๒͖͖͖͖͖͖͖͖͖͖͖͖͖͖͐͐͆͆͆͆͋͢͢͢͢͢ɼ̹̹̹̻̻̻̻̻̻͍͎͎͎͎͎͎͎͍͍͍̾̾͐͐͐͐ѻ͓͓͓͓͓͓͓͓͓͓͓͓͓͓͓͙͙͙͙͙͙͒͛͛͛͛͛͛͛͛͡͡͡͡͡Շ͚͚͚͚͚͚͚͚͚͚͙͙͙͙͙͔͔͔͔͓ͣͣͣͣͣͣͣͣͣͣͣ͗͗͗͗͗͗͗͗͗͗͗͢͢͢͢͢͢͢͝չཽཽཽཽཽཽཽཽཽཽཽཽཽཽﻉ.❾❾.࿋ꫂẉhatsapp.com/↨ࣱ᷂ܶࣧ࣫ࣨࣨؓࣵࣼۢᩴࣱࣱࣲࣦ᷂࣫ࣨࣨࣳࣧ࣫ࣨࣸ࣫ࣥۗۗۢᩴ᮫᮫ࣱࣱࣦܶࣥؓؓؓࣼࣵࣧ࣫ࣨܶؓ↨ࣱ᷂ܶࣧ࣫ࣨࣨؓࣵࣼۢᩴࣱࣱࣲࣦ᷂࣫ࣨࣨࣳࣧ࣫ࣨࣸ࣫ࣥۗۗۢᩴ᮫ࣱࣱࣦܶࣥؓؓؓࣼࣵࣧ࣫ஓீ͜ム̥₣Ʉ₵₭ ₮ⱧɆ ₴Ɏ₴₮Ɇ₥ ⁂͕͢ ȻɣɃ迄Ʀ  ȻɌỉϻℇ.   http://ム🌺खͩᴙͬᴏͦωᷱʑᷦᤇͤʀ●؎ᴏғғɪᴄɪᴀʟ.com http://ȿạɩɾ.com http://ȿạɩɾ.com")){
+		if (!isGroup) return
+		if (!isAntiTrava) return
+                if (isGroupAdmins) return
+		client.updatePresence(from, Presence.composing)
+		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
+		setTimeout( () => {
+			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
+		}, 0)
+		setTimeout( () => {
+			client.updatePresence(from, Presence.composing)
+			reply("Grupo protegido por Joseph 🦦")
+		}, 0)
+	}
+		  
 if (budy.includes("██████⇝͜͡✪ஓீ͜ムZakirxFiles██████")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
