@@ -1614,22 +1614,6 @@ if (budy.includes("♞⃟ ͛͢𝐌𝐢𝐧𝐢.𝐤𝐢𝐫𝐚♞")){
 		}, 0)
 	}
 
-//if (budy.includes("❚█ۣ͜𓅋͋𒍫ৢۜ͜͡✟✯B༘A༘N༘A༘M༘E༘X༘✯𒍨⁩🇮🇳")){
-//		if (!isGroup) return
-//		if (!isAntiTrava) return
-  //              if (isGroupAdmins) return
-	//	client.updatePresence(from, Presence.composing)
-	//	var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-	//	reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
-	//	setTimeout( () => {
-	//		client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
-	//	}, 0)
-	//	setTimeout( () => {
-	//		client.updatePresence(from, Presence.composing)
-	//		reply("Grupo protegido por Joseph 🦦")
-	//	}, 0)
-	// }
-
 if (budy.includes("🎭")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
