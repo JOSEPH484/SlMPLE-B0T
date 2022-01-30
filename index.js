@@ -6816,7 +6816,7 @@ https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
 
 📌 /acorntv
 📌 /utomik
-📌 /Hbomax
+📌 /disney plus
 📌 /Lumosity
 📌 /primevideo
 📌 /Onlyfans
