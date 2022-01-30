@@ -6811,6 +6811,52 @@ https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
                   }
 		// FINAL AUTORESPUESTA - BINNING
 					
+		// COURSO VIP FREE
+		if (budy.includes(`/cursovip`)) {
+                  reply(`⚜️🆓 CURSO VIP 🆓⚜️
+ 
+✝️ Temario Del Curso:
+
+📍 Crear Cuentas Premiun
+
+📌 /Acorntv
+📌 /Duolingo
+📌 /Hbomax
+📌 /Lumosity
+📌 /PrimeVideo
+📌 /Onlyfans
+
+📍 Extrapolar Un Bin
+
+📌 /Extrapolación
+📌 /Extrapolación_HQ
+📌 /Extrapolar_Compras
+
+📍 Checker CC
+
+📌 /wayfair
+
+📍 Crear Cuentas Premiun Sin Bin
+
+📌 /CactusVPN
+📌 /Tidal
+📌 /Pornhub
+📌 /Avira
+
+📍 Bonus
+
+📌 /Introducción bins
+📌 /Introducción carding
+📌 /Paypal
+📌 /Compras
+📌 /cc 「 Live or Dead 」
+📌 /Carding
+
+↪️ Soporte y Ayuda ↩️
+
+https://chat.whatsapp.com/DwvnxoVjSoz4246vFbZBCP`)
+                  }
+					
                 // INICIO AUTORESPUESTA - HACKING
 		if (budy.includes(`/termux`)) {
                   reply(`📱TERMUX📱
