@@ -6814,11 +6814,11 @@ https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
 
 📍 Crear Cuentas Premiun
 
-📌 /Acorntv
-📌 /Duolingo
+📌 /acorntv
+📌 /utomik
 📌 /Hbomax
 📌 /Lumosity
-📌 /PrimeVideo
+📌 /primevideo
 📌 /Onlyfans
 
 📍 Extrapolar Un Bin
