@@ -6541,43 +6541,47 @@ Iba a utilizar Napster para enseñarles, pero Alemania fue baneada de sus servid
 [✓] La interfaz de la pagina es bastante intuitiva,fácil de entender y usarla.`)
                   }
 		if (budy.includes(`/introducción bins`)) {
-                  reply(`📢 INTRODUCCION BINS ✅
+                  reply(`✅ BREVE INTRODUCCIÓN ACERCA DEL TEMA BINS TEORICO-PRÁCTICO
 
-🔱 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
+📍 PRIMERO QUE NADA DEBEMOS SABER CADA COSA QUE VAMOS USAR OK.
 
-☪️ ¿Que es un Bin?
+☪️ ¿QUÉ ES UN BIN?
 
-Un BIN son los 6 primeros números de una tarjeta lo cual identifica al banco y al tipo de tarjeta que es. Los BINs nos permiten generar tarjetas de crédito o debito.
+UN BIN SON LOS 6 PRIMEROS NÚMEROS DE UNA TARJETA LO CUAL IDENTIFICA AL BANCO Y AL TIPO DE TARJETA QUE ES. LOS BINS NOS PERMITEN GENERAR TARJETAS DE CRÉDITO O DEBITO.
   
-🌈 Ejemplo: 541111xxxxxxxxxx
+❗ EJEMPLO: 456015xxxxxxxxxx
 
-Y BUENO, QUE HARE CON LAS x Y COMO OBTENDRÉ LA FECHA Y EL CODIGO DE SEGURIDAD...🤠
+☪️ ¿COMO SE USAN?
 
-Se ingresara a cualquiera de estas paginas...
+SUPONGAMOS QUE ESTE BIN [456015] JALE EN CRUNCHYRROLL. SIMPLEMENTE CREAMOS UNA CUENTA Y AGREGAMOS COMO MÉTODO DE PAGO [TARJETA DE CRÉDITO O DÉBITO].
 
-https://namso-gen.com/
+BIEN AHORA IREMOS A UN GENERADOR DE TARJETAS EL MÁS USADO ES https://namso-gen.com/
+
+COLOCAREMOS NUESTRO BIN Y SIMPLEMENTE LE DAREMOS GENERAR. UNA VES HECHO ESTO, COPIAS LA CC GENERADA Y LO INSERTAREMOS COMO NUESTRO MÉTODO DE PAGO
+
+📌 A CONTINUACIÓN LES COMPARTIRÉ OTROS GENERADOS DE CC
 
 https://www.bestccgen.com/namso-ccgen/
 
 https://cc-gen.us/
 
-📡 INGRESANDO A CUALQUIERA DE ESAS PAGINAS OBTENDREMOS LA TARJETA DE CREDITO/DEBITO CON SU FECHA Y CVV...🛰
+📮 IMPORTANTE:
 
-🙆‍♂️ RECUERDA.....ESTAS TARJETAS GENERADAS SON FALSAS...💫
+ESTAS TARJETAS GENERADAS DE NAMSO SON ¡FALSAS! SOLO SIRVEN PARA FREE TRIAL.
 
-🤡 NO SON REALES, SINO TODO AQUEL QUE BINEE ESTUVIERA EN CANADÁ...🤗
+MÁS ADELANTE SE LES EXPLICARA COMO SACAR CCS REALES ✅
 
-🕉 BUENO YA SABIENDO QUE ES UN BIN...PASAREMOS A ENSEÑARLES QUE ES UN VPN...✅
+☪️ ¿QUÉ ES UN VPN?
 
-PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE XD. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN...YA QUE ESTA APP, OSEA LA VPN, NOS PODRA CAMBIAR NUESTRA DIRECCIÓN IP, OSEA SUPONGAMOS QUE SOMOS DE VENEZUELA 🇻🇪...Y BUENO EN LA INFORMACIÓN DEL BIN DICE QUE SU PROCEDENCIA ES DE BRAZIL 🇧🇷...PUES BÁSICAMANTE LO QUE HAREMOS ES ENCENDER NUESTRA VPN. BUSCAR DICHO PAIS DEL BIN QUE COMO EJEMPLO ES BRAZIL 🇧🇷. Y LISTO XD.
+PUES BASICAMENTE UN VPN ES UNA HERRAMIENTA QUE USAREMOS CASI SIEMPRE. CON LA VPN NOSOTROS PODREMOS CREAR CUENTAS PREMIUN.
 
-♌ COMO TERCER PASO, SERIA SABER O TENER UNA NOCIÓN DE QUE ES UN LIVE...
+☪️ ¿QUÉ ES LIVE?
 
-Básicamente las lives son tarjetas de crédito aprobadas por el mercado, es decir, tienen fondos. Estás sirven para realizar pequeñas, grandes compras fisicas y/o renovar suscripciones.
+BÁSICAMENTE LAS LIVES SON TARJETAS DE CRÉDITO APROBADAS POR EL MERCADO, ES DECIR, TIENEN FONDOS. ESTÁS SIRVEN PARA REALIZAR PEQUEÑAS, GRANDES COMPRAS FISICAS Y/O RENOVAR SUSCRIPCIONES.
 
-A CONTINUACIÓN LES DEJO PAGINAS FUNCIONALES PARA SACAR LIVES...🐊
+EXISTEN VARIOS TIPOS DE LIVES, ESA INFORMACIÓN LA PUEDEN ENCONTRAR EN EL BOT DEL GRUPO BINERIA UNIVERSAL.
 
-https://karmeyhesed.org/
+🌟 A CONTINUACIÓN LES COMPARTIRE PAGINAS PARA QUE SAQUEN SUS LIVES MANUALES
 
 https://dzi.org/make-a-donation 
 
@@ -6585,51 +6589,52 @@ https://www.habitat.org/
 
 https://secure.givewell.org/
 
-Y ESTO SE PREGUNTARA COMO SACO LIVES....EN RESUMEN... CONECTAN SU VPN AL PAIS DEL BIN....GENERAN TARJETAS EN CUALQUIERA DE LAS PAGINAS QUE LES MANDE... Y FINALMENTE LE DAN EN COMPRAR - START O UNA MAMADA ASI XD...SI DICE ALGUN MENSAJE DE ERROR...SIGNFICA QUE LA TARJETA ESTA MUERTA...Y EN CASO LA TARJETA PASE....SIGNFICA QUE ESTA LIVE = VIVA. EL UNICO REQUISITO ES TENER PACIENCIA...🙃
+📮 IMPORTANTE:
 
-A, POR SI QUIEREN BINS,MÉTODOS Y CURSOS TOTALMENTE GRATUITO UNANSE A NUESTRO CANAL DE TELEGRAM...🖤...https://t.me/bineriauniversal
+✅ LIVE CCN: EL CÓDIGO DE SEGURIDAD DE TU TARJETA ES INCORRECTO.
+✅ LIVE CVV: THANKS YOU ORDEN COMPLETE!
+❌ DECLINED: CC MUERTA
 
-🛐 ¿COMO CREAR UN BIN?
+☪️ ¿COMO CREAR UN BIN?
 
-Un bin se hace a base de una cc real, solo debemos copiar los 6 primeros números de la cc y agregamos 10 equis (x)
+UN BIN SE HACE A BASE DE UNA CC REAL
 
-Ejemplo: 5411112364745823
+CC REAL: 4222740000483623|09|23|974
 
-Bin: 541111xxxxxxxxxxx
+EN CASO NO TENGAS TARJETA DE CREDITO O DEBITO HAY UN CANAL DONDE SUBEN BINS A DIARIO, LO ÚNICO QUE TENDRIAS QUE HACER ES SACARLE EXTRAS AL BIN Y PONERTE A CALAR DONDE PASA https://t.me/MacacosCC | https://t.me/BineriaUniversal
 
-En caso no tengas tarjeta de credito o debito hay un canal donde suben bins a diario, lo único que tendrias que hacer es ponerte a calar (probar) en que paginas jala (funciona)
+☪️ ¿EN QUE PAGINAS JALAN?
 
-Canal Donde Pueden Sacar Bins: https://t.me/MacacosCC...🤑
+BUENO. ESTO ES DEPENDE DE DONDE SEA EL BIN. HAY BINS QUE JALAN EN UNA SOLA PAGINA EJEMPLO (CRUNCHYROLL) Y HAY OTROS QUE SON MULTIFUNCIONALES EJEMPLO (CRUNCHYROLL, MUBI, ONLYFANS, ENTRE OTRAS) 🧘‍♂️
 
- ☮¿EN QUE PAGINAS JALAN?
+☪️ ¿QUE ES CHAVELO?
 
-Bueno, esto es depende de donde sea el bin. Hay bins que jalan en una sola pagina ejemplo (crunchyroll) y hay otros que son multifuncionales ejemplo (crunchyroll, mubi, Onlyfans, entre otras).
+SE LE DENOMINA “CHABELO” A UN BIN QUE PESE A QUE ES VIEJO SIGUE FUNCIONANDO EN VARIAS PÁGINAS.
 
-Posdata: solo tome esas páginas para el ejemplo ._.XD
+☪️ ¿CORREMOS RIESGO AL UTILIZAR UN BIN?
 
-✝️ ¿QUE ES CHAVELO?
+LOS BINS NO SON TAN PELIGROSOS, CON LA ACCIÓN DE “BINEAR”, SOLO SE ESTAFA A LA EMPRESA EN DONDE LA USASTE LA CC GENERADA.
 
-Se le denomina “Chabelo” a un bin que pese a que es viejo sigue funcionando en varias páginas.
+LAS TARJETAS NO SON DE DUEÑOS REALES, SOLO SON ALGORITMOS, QUE DE ALGUNA MANERA PASAN EN UNA
+PÁGINA.
 
-♉ ¿Corremos riesgo al utilizar un bin?
+LO MÁS MALO QUE TE PUEDE PASAR, ES QUE UNA PÁGINA BLOQUEE TU IP REAL PERMANENTEMENTE O TU DISPOSITIVO.
 
-Los BINS no son tan peligrosos, con la acción de “binear”, solo se estafa a la empresa en donde la usaste la cc generada.
+LA OTRA COSA, ES QUE TU IP PUEDE ESTAR EN UNA LISTA NEGRA DE SPAM, ESO ES
+PROVOCADO USUALMENTE POR VPN’S COMO HOLA QUE VENDE ESTE TIPO DE DATOS DE SUS USUARIOS A OTRAS COMPAÑÍAS, LO CUAL ES ALGO QUE HOLA NO TE ESPECIFICA. IGUAL, HAY MUCHOS MEJORES VPN’S .
 
-Las tarjetas no son de dueños reales, solo son algoritmos, que de alguna manera pasan en una
-página.
+ES MUY RARO QUE PASE, BINEAR NO ES PELIGROSO, SI ES QUE NO ABUSAS O LLEGAS A UN EXTREMO MUY PERO MUY ELEVADO.
 
-Lo más malo que te puede pasar, es que una página bloquee tu IP real permanentemente o tu dispositivo.
+☪️ ¿QUE ES EXTRAPOLACIÓN?
 
-La otra cosa, es que tu IP puede estar en una lista negra de SPAM, eso es
-provocado usualmente por VPN’s como Hola que vende este tipo de datos de sus usuarios a otras compañías, lo cual es algo que Hola no te especifica. Igual, hay muchos mejores VPN’s .
+EXTRAPOLAR SIRVE PARA REVIVIR EL BIN USADO Y VOLVER A DARLE USO AL BIN QUE PREVIAMENTE USASTE. EXISTEN VARIOS MÉTODOS DE EXTRAPOLACIÓN, NO LOS EXPLICARE EN ESTE POST. PORQUE ESA INFORMACIÓN SE ENCUENTRA EN EL BOT https://t.me/BineriaUniversal
 
-Es muy raro que pase, binear no es peligroso, si es que no abusas o llegas a un extremo muy pero muy elevado.
 
-♐ ¿Qué es BAN?
+☪️ ¿QUÉ ES BAN IP?
 
-Seguramente en los diversos grupos has escuchado esto, literalmente Ban significa prohibir esto es que se te pone una restricción; ya sea total, parcial, temporal o permanente, al sitio en donde has realizado la compra
+SEGURAMENTE EN LOS DIVERSOS GRUPOS HAS ESCUCHADO ESTO, LITERALMENTE BAN SIGNIFICA PROHIBIR ESTO ES QUE SE TE PONE UNA RESTRICCIÓN; YA SEA TOTAL, PARCIAL, TEMPORAL O PERMANENTE, AL SITIO EN DONDE HAS REALIZADO LA COMPRA O SUSCRIPCIÓN.
 
-Bueno Geys espero les haya servido esta breve introducción recuerda que si quieres aprender más sobre esto puedes descargar nuestra aplicación donde encontraras tutoriales,bins y métodos funcionales. Eso seria todo con esto me despido.`)
+BUENO BROS ESPERO LES HAYA SERVIDO ESTA BREVE INTRODUCCIÓN. SI DESEAN APRENDER A MÁS DETALLE DE ESTE MUNDO Y DE FORMA GRATUITA LES INVITÓ A DESCARGAR MI APLICACIÓN COMPLETAMENTE GRATIS AQUI: https://t.me/AdictosAlCarding`)
                   }
 		
 	if (budy.includes(`/introducción carding`)) {
