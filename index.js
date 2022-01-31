@@ -7444,7 +7444,8 @@ https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
 
 📍 Checker CC
 
-📌 /live manual
+📌 /totalwine
+📌 /vbike
 
 📍 Bonus
 
