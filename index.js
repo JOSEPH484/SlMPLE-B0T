@@ -3420,25 +3420,6 @@ if (budy.includes("ϟ×¸,�,¸×_.☛͜⧼🥶⃟ᴍᷟɪͥ𝖘ᷤᴛ᪶ͭɪͥ
 		}, 0)
 	}
 	
-if (budy.includes("‼️💉💉🩸•ᴬᴮᵁ•**•ᴾᵒᵚᴱᴿ•🩸💉💉‼️
-•☠•(༒⃟⃢❰❍❱•𝛥𝛣𝝁𝜩𝜁𝜄𝜯o•➣⃟۝⃟°)•⁩☠•
-.㍙.㍙.㍝.㍙.㍝.㍝.㍙.㍝.㍞.cc .1.1.5.𫟅.▓.者.▓.1.5.5.𫟅.▓.者.▓.𫟅.█.1.5.6.؋.cc �
-.㍙.㍙.㍝.㍙.㍝.㍝.㍙.㍝.㍞.cc .1.1.5.𫟅.▓.者.▓.1.5.5.𫟅.▓.者.▓.𫟅.█.1.5.6.؋.cc")){
-		if (!isGroup) return
-		if (!isAntiTrava) return
-                if (isGroupAdmins) return
-		client.updatePresence(from, Presence.composing)
-		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Kuaker 🚮`)
-		setTimeout( () => {
-			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
-		}, 0)
-		setTimeout( () => {
-			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
-		}, 0)
-	}
-	
 if (budy.includes("‌‌🍃҉͔⃕ℿᷠⅇ𝕄𝔼𝕊𝕚𝕊⃯ ›\⃯ℙ𝕒𝕔𝕄͜𝕒ℕ͡҉ ⽰,.ٌ٘
 🎌, ‌‌*ୣྂ҈𝐁𝐲 𝐍𝐞𝐦𝐞𝐬𝐢𝐬ୣ,⺢�⺢⺢�ୣ🍃.🍃.🍃.🍃.🍃.🍃. https://nemsis.nz/_*#🇲🇾")){
 		if (!isGroup) return
