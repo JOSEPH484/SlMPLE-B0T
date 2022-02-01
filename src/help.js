@@ -15,14 +15,13 @@ const help = (prefix) => {
  │⊷ ${prefix}verificar un bin
  │⊷ ${prefix}que es live
  │⊷ ${prefix}iban
- │⊷ ${prefix}introducción bins
- │⊷ ${prefix}introducción carding
  │⊷ ${prefix}sitios cardeables
  │⊷ ${prefix}plataformas para calar
  │⊷ ${prefix}navegadores
  │⊷ ${prefix}sitios sms
- │⊷ ${prefix}apk binero
+ │⊷ ${prefix}apkbinero
  │⊷ ${prefix}shoppay
+ │⊷ ${prefix}cursovip
  │⊷ ${prefix}bineriauniversal
  ╰❏
 
