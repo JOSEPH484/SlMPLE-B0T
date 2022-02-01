@@ -5242,7 +5242,7 @@ case 'datos':
 						teks += ` │⊷ @${mem.jid.split('@')[0]}\n`
 						members_id.push(mem.jid)
 					}
-					mentions(' ╭❏ MENCIONANDO\n │⊷ '+teks+' ╰❏ MENCIONANDO', members_id, true)
+					mentions('╔══✪〘 MENCIONANDO 〙✪══\n╠➥'+teks+'╚═〘 BY JOSEPH-BOT 〙', members_id, true)
 					break
 			case 'firmes':
 				client.updatePresence(from, Presence.composing) 
