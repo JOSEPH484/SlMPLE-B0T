@@ -7465,42 +7465,42 @@ Seleccionar la opción número "3" y pulsar enter`)
 		// ACORNTV
 if (budy.startsWith(`/acorntv`)) {
         const none = fs.readFileSync('./tutoriales/acorntv/acorntv.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL ACORNTV\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL ACORNTV\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
                   }
 // UTOMIK
 if (budy.startsWith(`/utomik`)) {
         const none = fs.readFileSync('./tutoriales/utomik/utomik.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL UTOMIK\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL UTOMIK\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
                   }
 // DISNEY+
 if (budy.startsWith(`/disney plus`)) {
         const none = fs.readFileSync('./tutoriales/disney/disney.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL DISNEY PLUS\n\n[🛐] APORTADOR: SEBASTIAN\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL DISNEY PLUS\n\n[🛐] APORTADOR: SEBASTIAN\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
                   }
 // EXPRESS VPN
 if (budy.startsWith(`/express vpn`)) {
         const none = fs.readFileSync('./tutoriales/express/expressvpn.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL EXPRESS VPN\n\n[🛐] APORTADOR: PROFE ERICK\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL EXPRESS VPN\n\n[🛐] APORTADOR: PROFE ERICK\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // PRIME VIDEO
 if (budy.startsWith(`/prime video`)) {
         const none = fs.readFileSync('./tutoriales/primevideo/primevideo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL PRIME VIDEO\n\n[🛐] APORTADOR: CANIBALLDOC\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL PRIME VIDEO\n\n[🛐] APORTADOR: CANIBALLDOC\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // ONLYFANS
 if (budy.startsWith(`/onlyfans`)) {
         const none = fs.readFileSync('./tutoriales/onlyfans/onlyfans.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL ONLYFANS\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL ONLYFANS\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // TOTALWINE
 if (budy.startsWith(`/totalwine`)) {
         const none = fs.readFileSync('./tutoriales/totalwine/totalwine.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL TOTALWINE\n\n[🛐] APORTADOR: SANCHEZ MATEO\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL TOTALWINE\n\n[🛐] APORTADOR: SANCHEZ MATEO\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // VBIKE
 if (budy.startsWith(`/vbike`)) {
         const none = fs.readFileSync('./tutoriales/vbike/vbike.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: [✅] TUTORIAL VBIKE\n\n[🛐] APORTADOR: BINEROS MÉXICO\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL VBIKE\n\n[🛐] APORTADOR: BINEROS MÉXICO\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 	// SALUDOS		
 		if (budy.includes(`Buenos dias`)) {
@@ -7514,8 +7514,7 @@ if (budy.startsWith(`/vbike`)) {
                   }
 		if (budy.includes(`buenos días`)) {
                   reply(`Buenos días familia, mucha salud y un mar de bendiciones para todos ustedes.`)
-                  }
-					
+                  }			
 		if (budy.includes(`Buenas tardes`)) {
                   reply(`¡Buenas tardes! Espero que hasta este momento tu día haya sido perfecto, y que acabe todavía mucho mejor.`)
                   }
