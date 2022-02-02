@@ -7465,17 +7465,17 @@ Seleccionar la opción número "3" y pulsar enter`)
 		// ACORNTV
 if (budy.startsWith(`/acorntv`)) {
         const none = fs.readFileSync('./tutoriales/acorntv/acorntv.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL ACORNTV\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL ACORNTV\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // UTOMIK
 if (budy.startsWith(`/utomik`)) {
         const none = fs.readFileSync('./tutoriales/utomik/utomik.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL UTOMIK\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL UTOMIK\n\n[🛐] APORTADOR: JOSEPH\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // DISNEY+
 if (budy.startsWith(`/disney plus`)) {
         const none = fs.readFileSync('./tutoriales/disney/disney.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL DISNEY PLUS\n\n[🛐] APORTADOR: SEBASTIAN\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal, duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL DISNEY PLUS\n\n[🛐] APORTADOR: SEBASTIAN\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
 // EXPRESS VPN
 if (budy.startsWith(`/express vpn`)) {
