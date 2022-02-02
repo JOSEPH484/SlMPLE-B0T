@@ -4790,7 +4790,7 @@ if (budy.includes("ߘ")){
 		case 'fotosploit':
 		client.sendMessage(from, fotosploit(prefix, sender), text, {quoted: mek})
 		break
-			*/		
+	
 		/*case 'virtex':
 	       case 'troleo':
                client.sendMessage(from, virtex(prefix, sender), text, {quoted: mek})
