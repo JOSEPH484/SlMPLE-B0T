@@ -269,7 +269,7 @@ async function starts() {
 			console.log(anu)
 			if (anu.action == 'add') {
 				num = anu.participants[0]
-				teks = `Hola *@${num.split('@')[0]}* 🦦\n\nBienvenido a: *${mdata.subject}* 🤩\n\nGrupo en el que encontraras todo tipo de cuentas, bins y métodos ✅\n\nEspero disfrutes de tu estadía en este grupo ✨\n\nRecuerda leer las reglas del grupo para no tener ningún problema 🧘‍♂️`
+				teks = `Bienvenido *@${num.split('@')[0]}*`
                           client.sendMessage(mdata.id, teks, MessageType.text, { contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
 				num = anu.participants[0]
