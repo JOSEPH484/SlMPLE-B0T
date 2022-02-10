@@ -4675,7 +4675,7 @@ case 'datos':
 						antiwa.push(from)
 						fs.writeFileSync('./src/antidiscord.json', JSON.stringify(antiwa))
 						reply('❬ ✅ ❭ La funcion de antilink de Whatsapp esta habilitada en este grupo')
-						client.sendMessage(from,`Atención a todos los miembros activos de este grupo 📣\n\nDesde ahora cualquier participante que envie un link de *Discord* a este grupo sera expulsado de inmediato\n\n_*Razones: Spam*_`, text)
+						client.sendMessage(from,`Atención a todos los miembros activos de este grupo 📣\n\nDesde ahora cualquier participante que envie un link de *WhatsApp* a este grupo sera expulsado de inmediato\n\n_*Razones: Spam*_`, text)
 					} else if (Number(args[0]) === 0) {
 						antiwa.splice(from)
 						fs.writeFileSync('./src/antidiscord.json', JSON.stringify(antiwa))
@@ -4717,7 +4717,7 @@ case 'datos':
 						antiventa.push(from)
 						fs.writeFileSync('./src/antiventas.json', JSON.stringify(antiventa))
 						reply('❬ ✅ ❭ La funcion de antiventas esta habilitada en este grupo')
-						client.sendMessage(from,`Ready 😎`, text)
+						client.sendMessage(from,`Atención a todos los miembros activos de este grupo 📣\n\nDesde ahora cualquier participante que publique alguna *venta* a este grupo sera expulsado de inmediato\n\n_*Razones: No Ventas*_`, text)
 					} else if (Number(args[0]) === 0) {
 						antiventa.splice(from)
 						fs.writeFileSync('./src/antiventas.json', JSON.stringify(antiventa))
@@ -4738,7 +4738,7 @@ case 'datos':
 						antitrava.push(from)
 						fs.writeFileSync('./src/antitrava.json', JSON.stringify(antitrava))
 						reply('❬ ✅ ❭ La funcion antitrava esta habilitada en este grupo')
-						client.sendMessage(from,`Listo! 🤟`, text)
+						client.sendMessage(from,`Atención a todos los miembros activos de este grupo 📣\n\nDesde ahora cualquier participante que envie mensajes con caracteres *raros* a este grupo sera expulsado de inmediato\n\n_*Razones: Kuaker*_`, text)
 					} else if (Number(args[0]) === 0) {
 						antitrava.splice(from)
 						fs.writeFileSync('./src/antiventas.json', JSON.stringify(antitrava))
@@ -4859,7 +4859,8 @@ case 'datos':
 				//FIN DE ANTILINK HECHO POR SHANDUY
 				
 //ADMINISTRACION DE GRUPOS
-		                
+		         
+					/*
 case 'exe':
 if (!isGroup) return reply(mess.only.group)
 if (!isGroupAdmins) return reply(mess.only.admin)
@@ -4871,7 +4872,7 @@ client.updatePresence(from, Presence.composing)
 client.sendMessage(from, 'NO VEMO GILE ✋🥸🤚', text) // ur cods
 }, 0)
 break
-       
+  */     
 case 'grupocr':
 client.updatePresence(from, Presence.composing) 
 options = {
@@ -4960,7 +4961,7 @@ if (!isGroup) return reply(mess.only.group)
 if (!isUser) return reply(mess.only.daftarB)
 if (!isBotGroupAdmins) return reply(mess.only.Badmin)
 linkgc = await client.groupInviteCode (from)
-yeh = `Aqui esta el link del grupo\n\nhttps://chat.whatsapp.com/${linkgc}\n\nLink Del Grupo *${groupName}*`
+yeh = `Aqui esta el link del grupo 👇\n\nhttps://chat.whatsapp.com/${linkgc}\n\n💎 *${groupName}* 🌙`
 client.sendMessage(from, yeh, text, {quoted: mek, detectLinks: false})
 break
 
@@ -5004,7 +5005,7 @@ num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
 client.groupAdd(from, [num])
 } catch (e) {
 console.log('Error:', e)
-reply('No se pudo agregar el destino, tal vez porque es privado')
+reply('No se pudo agregar el destino')
 }
 break
 				
