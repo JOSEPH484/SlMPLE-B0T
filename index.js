@@ -5348,7 +5348,8 @@ break
 							if (!isNsfw) return reply('❌ *NSFW Desactivado* ❌')
 							res = await fetchJson(`https://meme-api.herokuapp.com/gimme/biganimetiddies`, {method: 'get'})
 							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Quiero ver tetas'})
+							client.sendMessage(from, buffer, image, {quoted: mek})
+							// client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Quiero ver tetas'})
 						} catch (e) {
 							console.log(`Error :`, color(e,'red'))
 							reply('❌ *ERROR* ❌')
@@ -5361,7 +5362,7 @@ break
 							if (!isNsfw) return reply('❌ *NSFW Desactivado* ❌')
 							res = await fetchJson(`https://meme-api.herokuapp.com/gimme/sideoppai`, {method: 'get'})
 							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'La vieja de gabo, tremenda puta'})
+							client.sendMessage(from, buffer, image, {quoted: mek})
 						} catch (e) {
 							console.log(`Error :`, color(e,'red'))
 							reply('❌ *ERROR* ❌')
@@ -5373,7 +5374,7 @@ break
 							if (!isNsfw) return reply('❌ *NSFW Desactivado* ❌')
 							res = await fetchJson(`https://meme-api.herokuapp.com/gimme/ahegao`, {method: 'get'})
 							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'Joder, quisiera follarmela'})
+							client.sendMessage(from, buffer, image, {quoted: mek})
 						} catch (e) {
 							console.log(`Error :`, color(e,'red'))
 							reply('❌ *ERROR* ❌')
@@ -5385,7 +5386,7 @@ break
 							if (!isNsfw) return reply('❌ *NSFW Desactivado* ❌')
 							res = await fetchJson(`https://meme-api.herokuapp.com/gimme/animefeets`, {method: 'get'})
 							buffer = await getBuffer(res.url)
-							client.sendMessage(from, buffer, image, {quoted: mek, caption: 'MMMMM PATAS'})
+							client.sendMessage(from, buffer, image, {quoted: mek})
 						} catch (e) {
 							console.log(`Error :`, color(e,'red'))
 							reply('❌ *ERROR* ❌') 
@@ -5393,7 +5394,7 @@ break
 						break
 				
 						
-                                case 'ping':    
+                                case 'info':    
 			   	        if (!isUser) return reply(mess.only.userB)
                                         const timestamp = speed();
                                         const latensi = speed() - timestamp
@@ -5401,7 +5402,7 @@ break
 				        uptime = process.uptime()
                                         client.sendMessage(from, `Velocidad: *${latensi.toFixed(4)} _Second_*\nDevice: *Alcatel Pixi 4*\nRAM: *6Mb*\nData: *10GB*\nRed: *2G*\nEstado: *Bateria Baja*`, text, { quoted: mek})
                                         break
-					
+					/*
                                 case 'ttp':
 					if (args.length < 1) return reply('Y el texto ?')
 					ranp = getRandom('.png')
@@ -5416,6 +5417,7 @@ break
 						fs.unlinkSync(rano)
 					})
 					break
+					*/
                 default:
 		// INICIO AUTORESPUESTA - BINNING
 		if (budy.includes(`/que es un bin`)) {
@@ -6250,7 +6252,7 @@ Saludos a todos Bic`)
 					
 										
 		if (budy.includes(`/plataformas para calar`)) {
-                  reply(`100  PLATAFORMAS DONDE PUEDEN CALAR , VAMOS ✅
+                  reply(`100  PLATAFORMAS DONDE PUEDEN CALAR VAMOS ✅
 
 1 CRUNCHYROLL
 2 PLEX 
@@ -7082,65 +7084,45 @@ if (budy.startsWith(`/vbike`)) {
         const none = fs.readFileSync('./tutoriales/vbike/vbike.mp4');
 		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', caption: '[✅] TUTORIAL VBIKE\n\n[🛐] APORTADOR: BINEROS MÉXICO\n\n[🛃] MÁS CONTENIDO AQUÍ 👇\n\n[🔗] https://t.me/BineriaUniversal', duration:-999999999})
                   }
-	// SALUDOS		
+	// SALUDOS
+					/*
 		if (budy.includes(`Buenos dias`)) {
                   reply(`Buenos días familia, mucha salud y un mar de bendiciones para todos ustedes.`)
                   }
-		if (budy.includes(`buenos dias`)) {
-                  reply(`Buenos días familia, mucha salud y un mar de bendiciones para todos ustedes.`)
-                  }
-		if (budy.includes(`Buenos días`)) {
-                  reply(`Buenos días familia, mucha salud y un mar de bendiciones para todos ustedes.`)
-                  }
-		if (budy.includes(`buenos días`)) {
-                  reply(`Buenos días familia, mucha salud y un mar de bendiciones para todos ustedes.`)
-                  }			
-		if (budy.includes(`Buenas tardes`)) {
-                  reply(`¡Buenas tardes! Espero que hasta este momento tu día haya sido perfecto, y que acabe todavía mucho mejor.`)
-                  }
-		if (budy.includes(`buenas tardes`)) {
-                  reply(`¡Buenas tardes! Espero que hasta este momento tu día haya sido perfecto, y que acabe todavía mucho mejor.`)
-                  }
-					
-		if (budy.includes(`Buenas noches`)) {
-                  reply(`¡¡Feliz Noche!! Cierra los ojos y espera a que la noche te regale el mejor descanso. Dulces Sueños...!!`)
-                  }
-		if (budy.includes(`buenas noches`)) {
-                  reply(`¡¡Feliz Noche!! Cierra los ojos y espera a que la noche te regale el mejor descanso. Dulces Sueños...!!`)
-                  }
+					*/
 	// VIDEOS
 	if (budy.startsWith(`Joseph`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (budy.startsWith(`joseph`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (budy.startsWith(`gaaaaa`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (budy.startsWith(`GAAAAAAA`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (budy.startsWith(`Aea`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (budy.startsWith(`aea`)) {
         const none = fs.readFileSync('./video/chibolomepo.mp4');
-		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:-999999999})
+		client.sendMessage(from, none, MessageType.video, {quoted: mek, mimetype: 'video/mp4', duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	// AUDIOS
 	if (budy.startsWith(`?`)) {
         const none = fs.readFileSync('./audio/beat.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true, duration:-999999999})
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true, duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
         if (budy.startsWith(`ª`)) {
         const none = fs.readFileSync('./audio/512.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true, duration:-999999999})
+		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true, duration:8888888888888888888888888888888888888888888888888888888888888888888888888888888})
                   }
 	if (isGroup && isSimi && budy != undefined) {
 						console.log(budy)
