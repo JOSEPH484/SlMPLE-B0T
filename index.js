@@ -316,8 +316,8 @@ async function starts() {
 				success: '✔️ Listo ✔️',
                                 levelon: '❬ ✅ ❭ Level activado',
 				leveloff: ' ❬ ✅ ❭  Level desactivado',
-				foto: 'Un momento por favor 🥴\n\nEstoy cambiando la foto del grupo 🦦\n\nPor favor no hacer spam\n\nMade in Joseph-Bot',
-				unir: 'Un momento por favor 🥴\n\nEstoy tratando de unirlo 🦦\n\nRecuerda que, si no lo uno es por que el usuario tiene bloqueado la función para unirlo a grupos\n\nMade in Joseph-Bot',
+				foto: 'Un momento por favor 🥴\n\nEstoy cambiando la foto del grupo 🦦\n\nPor favor no hacer spam',
+				unir: 'Un momento por favor 🥴\n\nEstoy tratando de unirlo 🦦\n\nRecuerda que, si no lo uno es por que el usuario tiene bloqueado la función para unirlo a grupos',
                                 levelnoton: '❬ ❎ ❭ Level no esta activado',
 				levelnol: 'Nivel 0 ',
 				error: {
@@ -333,15 +333,15 @@ async function starts() {
 					ownerB: '[❗] Este comando solo lo usa Joseph',
 					admin: '[❗] Este comando solo puede ser utilizado por administradores del grupo',
 					Badmin: '[❗] Este comando solo se puede usar cuando el bot se convierte en administrador',
-                                        pegatina: 'Un momento por favor 🥴\n\nRecuerda los stickersgif son de 6 segundos 🦦\n\nMade in Joseph-Bot',
-					attp: 'Un momento por favor 🥴\n\nEsto puede demorar unos minutos 🦦\n\nMade in Joseph-Bot',
-					imgs: 'Un momento por favor 🥴\n\nConvirtiendo tu Sticker a Imagen 🦦\n\nMade in Joseph-Bot',
-					mpcancion: 'Un momento por favor 🥴\n\nConvirtiendo de MP4 a MP3 🦦\n\nMade in Joseph-Bot',
-					mpa: 'Un momento por favor 🥴\n\nEstoy descargando tu cancion 🦦\n\nMade in Joseph-Bot',
-                                        mpv: 'Un momento por favor 🥴\n\nEstoy descargando tu video 🦦\n\nMade in Joseph-Bot',
-					insta: 'Un momento por favor 🥴\n\nEstoy descargando tu post 🦦\n\nMade in Joseph-Bot',
-					musica: 'Un momento por favor 🥴\n\nRecuerda colocar bien el nombre de la cancion o el link del video de youtube\n\nSi el comando /play no funciona utiliza el comando /play2 🦦\n\nMade in Joseph-Bot',
-					musica2: 'Un momento por favor 🥴\n\nRecuerda colocar bien el nombre de la cancion o el link del video de youtube\n\nSi el comando /play2 no funciona utiliza el comando /play 🦦\n\nMade in Joseph-Bot',
+                                        pegatina: 'Un momento por favor 🥴\n\nRecuerda los stickersgif son de 6 segundos 🦦',
+					attp: 'Un momento por favor 🥴\n\nEsto puede demorar unos minutos 🦦',
+					imgs: 'Un momento por favor 🥴\n\nConvirtiendo tu Sticker a Imagen 🦦',
+					mpcancion: 'Un momento por favor 🥴\n\nConvirtiendo de MP4 a MP3 🦦',
+					mpa: 'Un momento por favor 🥴\n\nEstoy descargando tu cancion 🦦',
+                                        mpv: 'Un momento por favor 🥴\n\nEstoy descargando tu video 🦦',
+					insta: 'Un momento por favor 🥴\n\nEstoy descargando tu post 🦦',
+					musica: 'Un momento por favor 🥴\n\nRecuerda colocar bien el nombre de la cancion o el link del video de youtube\n\nSi el comando /play no funciona utiliza el comando /play2 🦦',
+					musica2: 'Un momento por favor 🥴\n\nRecuerda colocar bien el nombre de la cancion o el link del video de youtube\n\nSi el comando /play2 no funciona utiliza el comando /play 🦦',
 					daftarB: `「NO ESTAS REGISTRADO」\n\n[❗] NO APARECES EN MI BASE DE DATOS [❗]\n\nPara poder usarme escribe el siguente comando\n\nComando: ${prefix}daftar Nombre\nEjemplo: ${prefix}daftar Joseph`,
 				}
 			}
@@ -409,7 +409,7 @@ if (budy.includes("https://wa.me/")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 			
@@ -425,7 +425,7 @@ if (budy.includes("https://wa.me/")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 			
@@ -447,7 +447,7 @@ if (budy.includes("https://www.facebook.com/")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}			
 			
@@ -463,7 +463,7 @@ if (budy.includes("https://m.facebook.com/")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 			
@@ -550,7 +550,7 @@ if (budy.includes("KBz6KgNL2Z4")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 			
@@ -566,23 +566,23 @@ if (budy.includes("KBz6KgNL2Z4")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 
 if (budy.includes("php?")){
 		if (!isGroup) return
 		if (!isAntiTrava) return
-          //      if (isGroupAdmins) return
+        	if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: SCAM 🚮`)
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Posible SCAM 🚮`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 
@@ -598,7 +598,7 @@ if (budy.includes("rzago2xxlebx2sp")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 	// FUNCION INICIO ANTIEMOJIS
@@ -614,7 +614,7 @@ if (budy.includes("rzago2xxlebx2sp")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 
@@ -630,7 +630,7 @@ if (budy.includes("😝")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 
@@ -646,7 +646,7 @@ if (budy.includes("🙈")){
 		}, 0)
 		setTimeout( () => {
 			client.updatePresence(from, Presence.composing)
-			reply("Grupo protegido por Joseph 🦦")
+			reply("Adios....")
 		}, 0)
 	}
 			
@@ -656,7 +656,7 @@ if (budy.includes("🙈")){
           //      if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Malas palabras 🚮`)
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Undefined 🚮`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
@@ -672,7 +672,7 @@ if (budy.includes("Gampi")){
    //             if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Malas palabras 🚮`)
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Undefined 🚮`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
@@ -688,7 +688,7 @@ if (budy.includes("gampi")){
    //             if (isGroupAdmins) return
 		client.updatePresence(from, Presence.composing)
 		var kic = `${sender.split("@")[0]}@s.whatsapp.net`
-		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Malas palabras 🚮`)
+		reply(`*Usted será eliminado del grupo ${sender.split("@")[0]}*\n\nRazón: Undefined 🚮`)
 		setTimeout( () => {
 			client.groupRemove(from, [kic]).catch((e)=>{reply(`*ERR:* ${e}`)})
 		}, 0)
