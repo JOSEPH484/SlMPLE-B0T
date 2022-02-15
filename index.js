@@ -4510,8 +4510,8 @@ case 'datos':
 	case 'owner':
 	       client.sendMessage(from, {displayname: "ᝰJσʂҽρԋ᭄", vcard: vcard}, MessageType.contact, { quoted: mek})
 		client.sendMessage(from, 'Alguna duda o queja, ahi tienes el número del creador',MessageType.text, { quoted: mek} )
-                const none = fs.readFileSync('./audio/creador.mp3');
-		client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+               // const none = fs.readFileSync('./audio/creador.mp3');
+		// client.sendMessage(from, none, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
                 break
 	
 	
@@ -6739,7 +6739,7 @@ www.refurb4less.com`)
 if (budy.includes(`/apkbinero`)) {
                   reply(`📍 ᴅᴇsᴄᴀʀɢᴀ ʟᴇ ᴍᴇᴊᴏʀ ᴀᴘʟɪᴄᴀᴄɪᴏ́ɴ ᴅᴇ ᴄᴀʀᴅɪɴɢ - ʜᴀᴄᴋɪɴɢ ʏ ʙɪɴɴɪɴɢ. 📍
 
-💯 ᴀǫᴜɪ ᴇɴᴄᴏɴᴛʀᴀʀᴀ́s:
+🔰 ᴀǫᴜɪ ᴇɴᴄᴏɴᴛʀᴀʀᴀ́s:
 
 ⚜️ ʙɪɴs ʏ ᴍᴇ́ᴛᴏᴅᴏs ғᴜɴᴄɪᴏɴᴀʟᴇs
 ⚜️ ᴠᴘɴ's ᴍᴏᴅɪғɪᴄᴀᴅᴏs (ᴘʀᴇᴍɪᴜɴ)
@@ -6755,28 +6755,7 @@ if (budy.includes(`/apkbinero`)) {
 
 https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
                   }
-			// GRUPOS OFICIALE$ TEAM B1NER1A UN1VERSAL		
-		  if (budy.includes(`/wordbinners`)) {
-                  reply(`♔⃟𝗪𝗢𝗥𝗗 𝗕𝗜𝗡𝗡𝗘𝗥𝗦♔⃟
-
-⚠️ 𝚁𝙴𝙶𝙻𝙰𝚂:
-
-🔯 𝐒𝐞𝐫 𝐚𝐜𝐭𝐢𝐯𝐨 𝐲 𝐚𝐩𝐨𝐫𝐭𝐚𝐫 𝐜𝐨𝐧 𝐦𝐚𝐭𝐞𝐫𝐢𝐚𝐥
-
-✡ 𝐂𝐞𝐫𝐨 𝐬𝐩𝐚𝐦 - 𝐞𝐧𝐥𝐚𝐜𝐞𝐬 - 𝐯𝐞𝐧𝐭𝐚𝐬
-
-✡ 𝐑𝐞𝐬𝐩𝐞𝐭𝐚𝐫 𝐚 𝐭𝐨𝐝𝐨𝐬 𝐥𝐨𝐬 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐧𝐭𝐞𝐬 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨
-
-✡ 𝐄𝐬𝐭𝐞 𝐞𝐬 𝐮𝐧 𝐠𝐫𝐮𝐩𝐨 𝐝𝐞 𝐚𝐩𝐨𝐫𝐭𝐞𝐬 𝐦𝐚𝐬 𝐧𝐨 𝐝𝐞 𝐯𝐞𝐧𝐭𝐚𝐬
-
-✡ 𝐍𝐨 𝐩𝐞𝐝𝐢𝐫 𝐚𝐝𝐦𝐢, 𝐩𝐨𝐫 𝐪𝐮𝐞 𝐧𝐨 𝐭𝐞 𝐥𝐚 𝐯𝐚𝐦𝐨𝐬 𝐚 𝐝𝐚𝐫
-
-✡ 𝐏𝐫𝐨𝐡𝐢𝐛𝐢𝐝𝐨 𝐞𝐥 𝐢𝐧𝐠𝐫𝐞𝐬𝐨 𝐝𝐞 𝐧𝐮𝐦𝐞𝐫𝐨𝐬 𝐯𝐢𝐫𝐭𝐮𝐚𝐥𝐞𝐬
-
-🔯 𝐋𝐢𝐧𝐤 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨: https://chat.whatsapp.com/Bhi2QNyfiCQ75thf9llSDl
-
-🛐 𝑶𝒘𝒏𝒆𝒓: Joel`)
-                  }
+	
 		// FINAL AUTORESPUESTA - BINNING
 					
 		// COURSO VIP FREE
@@ -6791,7 +6770,7 @@ https://www.mediafire.com/file/oxlgjgmlgw2uh6c/Bineria+Universal.apk/file`)
 📌 /utomik
 📌 /disney plus
 📌 /express vpn
-📌 /primevideo
+📌 /prime video
 📌 /onlyfans
 
 📍 Extrapolar Un Bin
