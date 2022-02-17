@@ -261,7 +261,7 @@ async function starts() {
 	})
 	await client.connect({timeoutMs: 30*1000})
         fs.writeFileSync('./Nazwa.json', JSON.stringify(client.base64EncodedAuthInfo(), null, '\t'))
-
+/*
 	client.on('group-participants-update', async (anu) => {
 		if (!welkom.includes(anu.jid)) return
 		try {
@@ -279,7 +279,27 @@ async function starts() {
 		} catch (e) {
 			console.log('Error: %s', color(e, 'red'))
 		}
+	})*/
+	
+	client.on('group-participants-update', async (anu) => {
+		if (!welkom.includes(anu.jid)) return
+		try {
+			const mdata = await client.groupMetadata(anu.jid)
+			console.log(anu)
+			if (anu.action == 'add') {
+				num = anu.participants[0]
+				teks = `Bienvenido @${num.split('@')[0]}`
+                          client.sendMessage(mdata.id, teks, MessageType.contact, { contextInfo: {"mentionedJid": [num]}})
+			} else if (anu.action == 'remove') {
+				num = anu.participants[0]
+				teks = `Adios... @${num.split('@')[0]}`
+				client.sendMessage(mdata.id, teks, MessageType.contact, {contextInfo: {"mentionedJid": [num]}})
+			}
+		} catch (e) {
+			console.log('Error: %s', color(e, 'red'))
+		}
 	})
+	
 
 		client.on('CB:Blocklist', json => {
             if (blocked.length > 2) return
