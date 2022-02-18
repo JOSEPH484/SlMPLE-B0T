@@ -12,7 +12,7 @@ const {
     Mimetype,
     rugaapi,
     GroupSettingChange
-} = require('@adiwajshing/baileys')
+} = require('@adiwajshing/baileys');
 
 /******COMIENZO DE LA ENTRADA DEL ARCHIVO******/
 const { color, bgcolor } = require('./lib/color')
